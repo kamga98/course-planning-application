@@ -1,0 +1,5547 @@
+[
+    
+    {
+      "id" : 1,    
+      "nom" : "S38",
+      "date_debut" : "14-09-20",
+      "date_fin"   : "18-09-20",       
+      "full" : 0,      
+      "free" : 0,                         
+      "visible" : 0, 
+      "nom_promotion" : "Promo 2021",
+      "niveau_formation" : "Ingénieur",         
+      "groupe1" : {
+   
+        "group_name" : "groupe1",              
+          
+        "lundi" : {     
+             
+          "m1" : {             
+              "nom" : "Technos Web",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud",           
+              "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "",                             
+            "type" : "",
+            "profs" : "",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Tp",
+              "profs" : "Herve Gaudin",
+              "fixed" : 0    
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "Raissa Troispoux",
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " Droits",
+              "type" : "Td",
+              "profs" : "Audrey Lauwers",
+              "fixed" : 0
+              
+        }
+  
+        },
+        "mardi" : {
+  
+          "m1" : {         
+              "nom" : "Web Java",
+              "type" : "Tp",
+              "profs" : "Fethi Belabdelli",
+              "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "Web Java",            
+            "type" : "Cours",
+            "profs" : "Fethi Belabdelli",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+            "nom" : "Anglais",    
+              "type" : "Td",
+              "profs" : "Alexia Herault",
+              "fixed" : 0 
+              
+        },
+        "m4" : {
+            "nom" : "OGL",
+              "type" : "Ei",
+              "profs" : "Emmanuel Amblard",          
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " Serveur App",
+              "type" : "Cours",
+              "profs" : "Emmanuel Amblard",
+              "fixed" : 0
+              
+        }
+  
+        },
+        "mercredi" : {
+  
+          "m1" : {         
+              "nom" : "Frameworks",
+              "type" : "Cours",
+              "profs" : "Julien Hochgenug",
+              "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "Internet",            
+            "type" : "Tp",
+            "profs" : "Pierre Francou",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+            "nom" : "SIE",    
+              "type" : "Td",
+              "profs" : "Patrice Pegaule",
+              "fixed" : 0 
+              
+        },
+        "m4" : {
+            "nom" : "Qualité",
+              "type" : "Cours",
+              "profs" : "Anne-Laure Andrieu",
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " Developpement Durable",
+              "type" : "Ds",
+              "profs" : "Marie-Line Condat",
+              "fixed" : 0
+              
+        }
+  
+        },
+        "jeudi" : {
+  
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud",
+              "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Tp",
+            "profs" : "William Ruchaud",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "Marie Romain",
+              "fixed" : 0 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Td",
+              "profs" : "Raissa Troispoux",
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " Droits",
+              "type" : "Td",
+              "profs" : "Audrey Lauwers",
+              "fixed" : 0
+              
+        }
+  
+        },
+        "vendredi" : {
+  
+          "m1" : {         
+              "nom" : "Droits",
+              "type" : "Td",
+              "profs" : "Audrey Lauwers",
+              "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "SIE",            
+            "type" : "Td",
+            "profs" : "Patrice Pegaule",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+            "nom" : "Management",    
+              "type" : "Cours",
+              "profs" : "Maitre",
+              "fixed" : 0 
+              
+        },
+        "m4" : {
+            "nom" : "Gestion des risques",
+              "type" : "Ds",
+              "profs" : "Thierry Larion",
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " OGL",
+              "type" : "Tp",
+              "profs" : "Emmanuel Amblard",
+              "fixed" : 0
+              
+        }
+  
+        }
+  
+                                         
+      },
+      "groupe2" : {
+  
+        "group_name" : "groupe2",  
+          
+        "lundi" : {     
+             
+          "m1" : {             
+              "nom" : "Technos Web",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud",           
+              "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",                             
+            "type" : "Cours",
+            "profs" : "William Ruchaud",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Tp",
+              "profs" : "Herve Gaudin",
+              "fixed" : 0    
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "Raissa Troispoux",
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " Droits",
+              "type" : "Td",
+              "profs" : "Audrey Lauwers",
+              "fixed" : 0
+              
+        }
+  
+        },
+        "mardi" : {
+  
+          "m1" : {         
+              "nom" : "Web Java",
+              "type" : "Tp",
+              "profs" : "Fethi Belabdelli",
+              "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "Web Java",            
+            "type" : "Cours",
+            "profs" : "Fethi Belabdelli",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+            "nom" : "Anglais",    
+              "type" : "Td",
+              "profs" : "Alexia Herault",
+              "fixed" : 0 
+              
+        },
+        "m4" : {
+            "nom" : "OGL",
+              "type" : "Ei",
+              "profs" : "Emmanuel Amblard",          
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " Serveur App",
+              "type" : "Cours",
+              "profs" : "Emmanuel Amblard",
+              "fixed" : 0
+              
+        }
+  
+        },
+        "mercredi" : {
+  
+          "m1" : {         
+              "nom" : "Frameworks",
+              "type" : "Cours",
+              "profs" : "Julien Hochgenug",
+              "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "Internet",            
+            "type" : "Tp",
+            "profs" : "Pierre Francou",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+            "nom" : "SIE",    
+              "type" : "Td",
+              "profs" : "Patrice Pegaule",
+              "fixed" : 0 
+              
+        },
+        "m4" : {
+            "nom" : "Qualité",
+              "type" : "Cours",
+              "profs" : "Anne-Laure Andrieu",
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " Developpement Durable",
+              "type" : "Ds",
+              "profs" : "Marie-Line Condat",
+              "fixed" : 0
+              
+        }
+  
+        },
+        "jeudi" : {
+  
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud",
+              "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Tp",
+            "profs" : "William Ruchaud",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "Marie Romain",
+              "fixed" : 0 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Td",
+              "profs" : "Raissa Troispoux",
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " Droits",
+              "type" : "Td",
+              "profs" : "Audrey Lauwers",
+              "fixed" : 0
+              
+        }
+  
+        },
+        "vendredi" : {
+  
+          "m1" : {         
+              "nom" : "Droits",
+              "type" : "Td",
+              "profs" : "Audrey Lauwers",
+              "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "SIE",            
+            "type" : "Td",
+            "profs" : "Patrice Pegaule",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+            "nom" : "Management",    
+              "type" : "Cours",
+              "profs" : "Maitre",
+              "fixed" : 0 
+              
+        },
+        "m4" : {
+            "nom" : "Gestion des risques",
+              "type" : "Ds",
+              "profs" : "Thierry Larion",
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " OGL",
+              "type" : "Tp",
+              "profs" : "Emmanuel Amblard",
+              "fixed" : 0
+              
+        }
+  
+        }
+  },
+  "groupe3" : {
+  
+    "group_name" : "groupe3",               
+   
+    "lundi" : {
+    
+      "m1" : {             
+          "nom" : "SIE",    
+          "type" : "Cours",
+          "profs" : "Patrice Pegaule",           
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "BDD",                             
+        "type" : "Cours",
+        "profs" : "William Ruchaud",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Td",
+          "profs" : "Herve Gaudin",
+          "fixed" : 0    
+          
+    },
+    "m4" : {
+        "nom" : "OGL",
+          "type" : "Tp",
+          "profs" : "Emmanuel Amblard",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " Management",
+          "type" : "Td",
+          "profs" : "Maitre",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "mardi" : {
+  
+      "m1" : {         
+          "nom" : "Qualite",
+          "type" : "Cours",
+          "profs" : "Anne-Laure Andrieu",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "Gestion des risques",            
+        "type" : "Td",
+        "profs" : "Thierry Larion",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "Serveur App",    
+          "type" : "Cours",
+          "profs" : "Emmanuel Amblard",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "Raissa Troispoux",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " Anglais",
+          "type" : "Ds",
+          "profs" : "Alexia Herault",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "mercredi" : {
+  
+      "m1" : {         
+          "nom" : "Frameworks",
+          "type" : "Ei",
+          "profs" : "Julien Hochgenug",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "Internet",            
+        "type" : "Ds",
+        "profs" : "Pierre Francou",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Tp",
+          "profs" : "Marie Romain",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "Conduite de reunion",
+          "type" : "Td",
+          "profs" : "Martine Binet",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " Management",
+          "type" : "Ds",
+          "profs" : "Maitre",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "jeudi" : {
+  
+      "m1" : {         
+          "nom" : "BDD",
+          "type" : "Cours",
+          "profs" : "William Ruchaud",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "Langage C",            
+        "type" : "Tp",
+        "profs" : "Fethi Belabdelli",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "Prog Sys",    
+          "type" : "Ei",
+          "profs" : "Fethi Belabdelli",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "Qualité",
+          "type" : "Cours",
+          "profs" : "Anne-Laure Andrieu",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " Developpement Durable",
+          "type" : "Td",
+          "profs" : "Marie-Line Condat",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "vendredi" : {
+  
+      "m1" : {         
+          "nom" : "Electronique",
+          "type" : "Tp",
+          "profs" : "Christian Desvalois",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "Signal",            
+        "type" : "Td",
+        "profs" : "karmel Frigui",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "Analyse Numérique",    
+          "type" : "Ei",
+          "profs" : "Mouhamadou Moctar",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "Raissa Troispoux",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " Droits",
+          "type" : "Td",
+          "profs" : "Audrey Lauwers",
+          "fixed" : 0  
+    }
+  
+    }
+  
+                                     
+  }
+  },
+  
+    
+   
+    {
+      "id" : 2,
+      "nom" : "S39",
+      "date_debut" : "21-09-20",
+      "date_fin"   : "25-09-20",
+      "full" : 0,
+      "free" : 0, 
+      "visible" : 0,
+      "nom_promotion" : "Promo 2021",
+      "niveau_formation" : "Ingénieur",       
+      "groupe1" : {
+  
+        "group_name" : "groupe1",
+  
+        "lundi" : {
+  
+          "m1" : {         
+              "nom" : "BDD",
+              "type" : "Cours",     
+              "profs" : "William Ruchaud",
+              "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "Technos Web",            
+            "type" : "Tp",
+            "profs" : "William Ruchaud",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+            "nom" : "Analyse Numerique",    
+              "type" : "Tp",
+              "profs" : "Mouhamadou Moctar",
+              "fixed" : 0    
+              
+        },
+        "m4" : {
+            "nom" : "Management",
+              "type" : "Cours",
+              "profs" : "Maitre",
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : "Gestion des Risques",                                    
+              "type" : "Cours",
+              "profs" : "Thierry Larion",
+              "fixed" : 0       
+              
+        }
+  
+        },
+        "mardi" : {
+  
+          "m1" : {         
+              "nom" : "Developpement Durable",
+              "type" : "Cours",
+              "profs" : "Marie-Line Condat",
+              "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "SIE",            
+            "type" : "Cours",
+            "profs" : "Patrice Pegaule",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud",
+              "fixed" : 0 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "Raissa Troispoux",
+              "fixed" : 0
+              
+        },
+        "m5" : {         
+            "nom" : "Droits",                       
+              "type" : "Cours",
+              "profs" : "Audrey Lauwers",
+              "fixed" : 0
+              
+        }
+  
+        },
+        "mercredi" : {
+  
+          "m1" : {         
+              "nom" : "Signal",
+              "type" : "Td",
+              "profs" : "Karmel Frigui",
+              "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "Analyse Numerique",            
+            "type" : "Cours",
+            "profs" : "Mouhamadou Moctar",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+            "nom" : "Electronique",    
+              "type" : "Tp",
+              "profs" : "Chritian Desvalois",
+              "fixed" : 0 
+              
+        },
+        "m4" : {
+            "nom" : "Serveur App",
+              "type" : "Cours",
+              "profs" : "Emmanuel Amblard",
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " Internet",
+              "type" : "Ds",
+              "profs" : "Pierre Francou",
+              "fixed" : 0
+              
+        }
+  
+        },
+        "jeudi" : {
+  
+          "m1" : {         
+              "nom" : "OGL",
+              "type" : "Cours",
+              "profs" : "Emmanuel Amblard",
+              "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Tp",
+              "profs" : "Romain Marie",
+              "fixed" : 0 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "Raissa Troispoux",
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " Droits",
+              "type" : "Td",
+              "profs" : "Audrey Lauwers",
+              "fixed" : 0
+              
+        }
+  
+        },
+        "vendredi" : {
+  
+          "m1" : {         
+              "nom" : "Droits",
+              "type" : "Cours",
+              "profs" : "Audrey Lauwers",
+              "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "Technos Web",            
+            "type" : "Tp",
+            "profs" : "William Ruchaud",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+            "nom" : "Management",    
+              "type" : "Cours",
+              "profs" : "Maitre",
+              "fixed" : 0 
+              
+        },
+        "m4" : {
+            "nom" : "SIE",
+              "type" : "Cours",
+              "profs" : "Patrice Pegaule",
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " Frameworks",
+              "type" : "Ei",
+              "profs" : "Julien Hochgenug",
+              "fixed" : 0
+              
+        }
+  
+        }
+  
+                                         
+      },
+      "groupe2" : {
+  
+        "group_name" : "groupe2",
+  
+        "lundi" : {
+  
+          "m1" : {         
+            "nom" : " Frameworks",
+            "type" : "Ei",
+            "profs" : "Julien Hochgenug",
+            "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "JAVA",    
+              "type" : "Td",
+              "profs" : "Herve Gaudin",
+              "fixed" : 0 
+              
+        },
+        "m3" : {
+            "nom" : "Electronique",    
+              "type" : "Cours",
+              "profs" : "Christian Desvalois",
+              "fixed" : 0    
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "Raissa Troispoux",
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " Droits",
+              "type" : "Td",
+              "profs" : "Audrey Lauwers",
+              "fixed" : 0
+              
+        }
+  
+        },
+        "mardi" : {
+  
+          "m1" : {         
+            "nom" : " Droits",
+            "type" : "Td",
+            "profs" : "Audrey Lauwers",
+            "fixed" : 0                          
+  
+          },
+          "m2" : {    
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "Raissa Troispoux",
+              "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud",
+          "fixed" : 0
+              
+        },
+        "m4" : {
+            "nom" : "Signal",
+              "type" : "Cours",
+              "profs" : "Karmel Frigui",
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " Management",
+              "type" : "Cours",
+              "profs" : "Maitre",
+              "fixed" : 0
+              
+        }
+  
+        },
+        "mercredi" : {
+  
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud",
+              "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Tp",
+              "profs" : "Marie Romain",
+              "fixed" : 0 
+              
+        },
+        "m4" : {
+            "nom" : "Analyse Numerique",
+              "type" : "Cours",
+              "profs" : "Mouhamadou Moctar",
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " Gestion des risques",
+              "type" : "Cours",
+              "profs" : "Thierry Larion",
+              "fixed" : 0
+              
+        }
+  
+        },
+        "jeudi" : {
+  
+          "m1" : {         
+            "nom" : "JAVA",    
+            "type" : "Cours",
+            "profs" : "William Ruchaud",
+            "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "Raissa Troispoux",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "BDD",            
+          "type" : "Cours",
+          "profs" : "William Ruchaud",
+          "fixed" : 0
+              
+        },
+        "m4" : {
+            "nom" : "Web Java",
+              "type" : "Cours",
+              "profs" : "Fethi Belabdeli",
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " Conduite de reunion",
+              "type" : "Ds",
+              "profs" : "Martine Binet",
+              "fixed" : 0
+              
+        }
+  
+        },
+        "vendredi" : {
+  
+          "m1" : {         
+              "nom" : "Internet",
+              "type" : "Tp",
+              "profs" : "Pierre Francou",
+              "fixed" : 0                          
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+            "nom" : "POO",    
+              "type" : "Ei",
+              "profs" : "Marie Romain",
+              "fixed" : 0 
+              
+        },
+        "m4" : {
+            "nom" : "Anglais",
+              "type" : "Td",
+              "profs" : "Alexia Herault",
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " Web Java",
+              "type" : "Tp",
+              "profs" : "Fethi Belabdelli",
+              "fixed" : 0
+              
+        }
+    }
+  },
+  "groupe3" : {
+  
+    "group_name" : "groupe3",
+  
+    "lundi" : {
+  
+      "m1" : {         
+        "nom" : " Frameworks",
+        "type" : "Ei",
+        "profs" : "Julien Hochgenug",
+        "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "JAVA",    
+          "type" : "Td",
+          "profs" : "Herve Gaudin",
+          "fixed" : 0 
+          
+    },
+    "m3" : {
+        "nom" : "Electronique",    
+          "type" : "Cours",
+          "profs" : "Christian Desvalois",
+          "fixed" : 0    
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "Raissa Troispoux",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " Droits",
+          "type" : "Td",
+          "profs" : "Audrey Lauwers",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "mardi" : {
+  
+      "m1" : {         
+        "nom" : " Droits",
+        "type" : "Td",
+        "profs" : "Audrey Lauwers",
+        "fixed" : 0                          
+  
+      },
+      "m2" : {    
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "Raissa Troispoux",
+          "fixed" : 0
+          
+    },
+    "m3" : {
+      "nom" : "Recrutement",
+      "type" : "Cours",
+      "profs" : "William Ruchaud",
+      "fixed" : 0
+          
+    },
+    "m4" : {
+        "nom" : "Signal",
+          "type" : "Cours",
+          "profs" : "Karmel Frigui",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " Management",
+          "type" : "Cours",
+          "profs" : "Maitre",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "mercredi" : {
+  
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Tp",
+          "profs" : "Marie Romain",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "Analyse Numerique",
+          "type" : "Cours",
+          "profs" : "Mouhamadou Moctar",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " Gestion des risques",
+          "type" : "Cours",
+          "profs" : "Thierry Larion",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "jeudi" : {
+  
+      "m1" : {         
+        "nom" : "JAVA",    
+        "type" : "Cours",
+        "profs" : "William Ruchaud",
+        "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "Recrutement",
+        "type" : "Cours",
+        "profs" : "Raissa Troispoux",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+      "nom" : "BDD",            
+      "type" : "Cours",
+      "profs" : "William Ruchaud",
+      "fixed" : 0
+          
+    },
+    "m4" : {
+        "nom" : "Web Java",
+          "type" : "Cours",
+          "profs" : "Fethi Belabdeli",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " Conduite de reunion",
+          "type" : "Ds",
+          "profs" : "Martine Binet",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "vendredi" : {
+  
+      "m1" : {         
+          "nom" : "Internet",
+          "type" : "Tp",
+          "profs" : "Pierre Francou",
+          "fixed" : 0                          
+  
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "POO",    
+          "type" : "Ei",
+          "profs" : "Marie Romain",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "Anglais",
+          "type" : "Td",
+          "profs" : "Alexia Herault",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " Web Java",
+          "type" : "Tp",
+          "profs" : "Fethi Belabdelli",
+          "fixed" : 0
+          
+    }
+  
+    }
+  
+                                     
+  }
+  },
+                  
+  
+    
+    {
+      "id" : 3,
+      "nom" : "S40",
+      "date_debut" : "28-09-20",
+      "date_fin"   : "02-10-20",           
+      "full" : 0,
+      "free" : 0, 
+      "visible" : 0,
+      "nom_promotion" : "Promo 2021",
+      "niveau_formation" : "Ingénieur",      
+      "groupe1" : {
+  
+        "group_name" : "groupe1",
+  
+        "lundi" : {                     
+  
+          "m1" : {         
+            "nom" : " Frameworks",
+            "type" : "Ei",
+            "profs" : "Julien Hochgenug",
+            "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "JAVA",    
+            "type" : "Td",
+            "profs" : "Herve Gaudin",
+            "fixed" : 0 
+              
+        },
+        "m3" : {
+          "nom" : "Electronique",    
+          "type" : "Cours",
+          "profs" : "Christian Desvalois",
+          "fixed" : 0   
+              
+        },
+        "m4" : {
+          "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "Raissa Troispoux",
+            "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : " Droits",
+          "type" : "Td",
+          "profs" : "Audrey Lauwers",
+          "fixed" : 0
+            
+              
+        }
+  
+        },
+        "mardi" : {
+  
+          "m1" : {         
+            "nom" : " Droits",
+            "type" : "Td",
+            "profs" : "Audrey Lauwers",
+            "fixed" : 0                                  
+  
+          },
+          "m2" : {    
+            "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "Raissa Troispoux",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "POO",    
+          "type" : "Tp",
+          "profs" : "Marie Romain",
+          "fixed" : 0 
+              
+        },
+        "m4" : {
+          "nom" : "Signal",
+          "type" : "Cours",
+          "profs" : "Karmel Frigui",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : " Management",
+          "type" : "Cours",
+          "profs" : "Maitre",
+          "fixed" : 0
+              
+        }
+  
+        },
+        "mercredi" : {
+  
+          "m1" : {         
+            "nom" : "Technos Web",
+            "type" : "Cours",
+            "profs" : "William Ruchaud",
+            "fixed" : 0                            
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "JAVA",    
+          "type" : "Tp",
+          "profs" : "Marie Romain",
+          "fixed" : 0
+              
+        },
+        "m4" : {
+          "nom" : "Analyse Numerique",
+          "type" : "Cours",
+          "profs" : "Mouhamadou Moctar",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : " Gestion des risques",
+            "type" : "Cours",
+            "profs" : "Thierry Larion",
+            "fixed" : 0
+              
+        }
+  
+        },
+        "jeudi" : {
+  
+          "m1" : {         
+            "nom" : "JAVA",    
+            "type" : "Td",
+            "profs" : "Herve Gaudin",
+            "fixed" : 0                         
+  
+          },
+          "m2" : {    
+            "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "Raissa Troispoux",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "BDD",            
+          "type" : "Cours",
+          "profs" : "William Ruchaud",
+          "fixed" : 0 
+              
+        },
+        "m4" : {
+          "nom" : "Web Java",
+          "type" : "Cours",
+          "profs" : "Fethi Belabdeli",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : " Conduite de reunion",
+          "type" : "Ds",
+          "profs" : "Martine Binet",
+          "fixed" : 0
+              
+        }
+  
+        },
+        "vendredi" : {
+  
+          "m1" : {         
+            "nom" : "Internet",
+            "type" : "Tp",
+            "profs" : "Pierre Francou",
+            "fixed" : 0                            
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "POO",    
+          "type" : "Ei",
+          "profs" : "Marie Romain",
+          "fixed" : 0 
+              
+        },
+        "m4" : {
+          "nom" : "Anglais",
+          "type" : "Td",
+          "profs" : "Alexia Herault",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : " Web Java",
+          "type" : "Tp",
+          "profs" : "Fethi Belabdelli",
+          "fixed" : 0
+              
+        }
+  
+        }
+  
+                                         
+      },
+      "groupe2" : {
+  
+        "group_name" : "groupe2",
+  
+        "lundi" : {                     
+  
+          "m1" : {         
+            "nom" : "Management",
+            "type" : "Td",
+            "profs" : "Maitre",
+            "fixed" : 0                             
+  
+          },
+          "m2" : {    
+            "nom" : "Qualite",            
+            "type" : "Cours",
+            "profs" : "Anne-Laure Andrieu",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "POO",    
+          "type" : "Tp",
+          "profs" : "marie Romain",
+          "fixed" : 0     
+              
+        },
+        "m4" : {
+          "nom" : " SIE",
+          "type" : "Td",
+          "profs" : "Patrice Pegaule",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "Raissa Troispoux",
+          "fixed" : 0
+              
+        }
+  
+        },
+        "mardi" : {
+  
+          "m1" : {         
+            "nom" : "Frameworks",
+            "type" : "Cours",
+            "profs" : "Julien Hochgenug",
+            "fixed" : 0                                  
+  
+          },
+          "m2" : {    
+            "nom" : "Signal",            
+            "type" : "Cours",
+            "profs" : "Karmel Frigui",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "BDD",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud",
+          "fixed" : 0  
+              
+        },
+        "m4" : {
+          "nom" : "Internet",
+          "type" : "Tp",
+          "profs" : "Pierre Francou",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : " Electronique",
+          "type" : "Cours",
+          "profs" : "Christian Desvalois",
+          "fixed" : 0
+              
+        }
+  
+        },
+        "mercredi" : {
+  
+          "m1" : {         
+            "nom" : "Internet",
+            "type" : "Tp",
+            "profs" : "Pierre Francou",
+            "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : " Electronique",
+            "type" : "Cours",
+            "profs" : "Christian Desvalois",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "Analyse Numerique",    
+          "type" : "Cours",
+          "profs" : "Mouhamadou Moctar",
+          "fixed" : 0 
+              
+        },
+        "m4" : {
+          "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "Raissa Troispoux",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : " Dev Si",
+          "type" : "Cours",
+          "profs" : "Jerome Grasset",
+          "fixed" : 0
+              
+        }
+  
+        },
+        "jeudi" : {
+  
+          "m1" : {         
+            "nom" : " Dev Si",
+            "type" : "Cours",
+            "profs" : "Jerome Grasset",
+            "fixed" : 0                          
+  
+          },
+          "m2" : {    
+            "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "Raissa Troispoux",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : " Droits",
+          "type" : "Cours",
+          "profs" : "Audrey Lauwers",
+          "fixed" : 0
+              
+        },
+        "m4" : {
+          "nom" : "Analyse Numerique",    
+          "type" : "Cours",
+          "profs" : "Mouhamadou Moctar",
+          "fixed" : 0 
+              
+        },
+        "m5" : {
+          "nom" : " Anglais",
+          "type" : "Cours",
+          "profs" : "Alexia Herault",
+          "fixed" : 0
+              
+        }
+  
+        },
+        "vendredi" : {
+  
+          "m1" : {         
+            "nom" : " Anglais",
+            "type" : "Cours",
+            "profs" : "Alexia Herault",
+            "fixed" : 0                         
+  
+          },
+          "m2" : {    
+            "nom" : "Analyse Numerique",    
+            "type" : "Cours",
+            "profs" : "Mouhamadou Moctar",
+            "fixed" : 0 
+              
+        },
+        "m3" : {
+          "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "Raissa Troispoux",
+          "fixed" : 0 
+              
+        },
+        "m4" : {
+          "nom" : "Management",
+          "type" : "Cours",
+          "profs" : "Maitre",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : " SIE",
+          "type" : "Cours",
+          "profs" : "Patrice Pegaule",
+          "fixed" : 0
+              
+        }
+  
+        }
+  
+                                         
+      },
+      "groupe3" : {
+  
+        "group_name" : "groupe3",
+   
+        "lundi" : {
+        
+          "m1" : {             
+            "nom" : "Management",
+            "type" : "Td",
+            "profs" : "Maitre",
+            "fixed" : 0                           
+    
+          },
+          "m2" : {    
+            "nom" : "Qualite",            
+            "type" : "Cours",
+            "profs" : "Anne-Laure Andrieu",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "POO",    
+          "type" : "Tp",
+          "profs" : "marie Romain",
+          "fixed" : 0     
+              
+        },
+        "m4" : {
+          "nom" : " SIE",
+          "type" : "Td",
+          "profs" : "Patrice Pegaule",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "Raissa Troispoux",
+          "fixed" : 0
+              
+        }
+    
+        },
+        "mardi" : {
+    
+          "m1" : {         
+            "nom" : "BDD",    
+            "type" : "Cours",
+            "profs" : "William Ruchaud",
+            "fixed" : 0                          
+    
+          },
+          "m2" : {    
+            "nom" : "Frameworks",
+            "type" : "Cours",
+            "profs" : "Julien Hochgenug",
+            "fixed" : 0  
+              
+        },
+        "m3" : {
+          "nom" : "Signal",            
+          "type" : "Cours",
+          "profs" : "Karmel Frigui",
+          "fixed" : 0
+              
+        },
+        "m4" : {
+          "nom" : "Internet",
+          "type" : "Tp",
+          "profs" : "Pierre Francou",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : " Electronique",
+          "type" : "Cours",
+          "profs" : "Christian Desvalois",
+          "fixed" : 0
+              
+        }
+    
+        },
+        "mercredi" : {
+    
+          "m1" : {         
+            "nom" : "Internet",
+            "type" : "Tp",
+            "profs" : "Pierre Francou",
+            "fixed" : 0                            
+    
+          },
+          "m2" : {    
+            "nom" : " Electronique",
+            "type" : "Cours",
+            "profs" : "Christian Desvalois",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "Analyse Numerique",    
+          "type" : "Cours",
+          "profs" : "Mouhamadou Moctar",
+          "fixed" : 0 
+              
+        },
+        "m4" : {
+          "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "Raissa Troispoux",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : " Dev Si",
+          "type" : "Tp",
+          "profs" : "Jerome Grasset",
+          "fixed" : 0
+              
+        }
+    
+        },
+        "jeudi" : {
+    
+          "m1" : {         
+            "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "Raissa Troispoux",
+            "fixed" : 0                         
+    
+          },
+          "m2" : {    
+            "nom" : " Dev Si",
+            "type" : "Tp",
+            "profs" : "Jerome Grasset",
+            "fixed" : 0  
+              
+        },
+        "m3" : {
+          "nom" : " Droits",
+          "type" : "Cours",
+          "profs" : "Audrey Lauwers",
+          "fixed" : 0
+              
+        },
+        "m4" : {
+          "nom" : "Analyse Numerique",    
+          "type" : "Tp",
+          "profs" : "Mouhamadou Moctar",
+          "fixed" : 0 
+              
+        },
+        "m5" : {
+          "nom" : " Anglais",
+          "type" : "Cours",
+          "profs" : "Alexia Herault",
+          "fixed" : 0
+              
+        }
+    
+        },
+        "vendredi" : {
+    
+          "m1" : {         
+            "nom" : " Anglais",
+            "type" : "Cours",
+            "profs" : "Alexia Herault",
+            "fixed" : 0                            
+    
+          },
+          "m2" : {    
+            "nom" : "Analyse Numerique",    
+            "type" : "Cours",
+            "profs" : "Mouhamadou Moctar",
+            "fixed" : 0 
+              
+        },
+        "m3" : {
+          "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "Raissa Troispoux",
+          "fixed" : 0 
+              
+        },
+        "m4" : {
+          "nom" : "Management",
+          "type" : "Cours",
+          "profs" : "Maitre",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : " SIE",
+          "type" : "Cours",
+          "profs" : "Patrice Pegaule",
+          "fixed" : 0
+              
+        }
+    
+        }
+    
+                                         
+      }
+    },
+      {
+        "id" : 4,    
+        "nom" : "S41",
+        "date_debut" : "05-10-20",
+        "date_fin"   : "09-10-20",
+        "full" : 0,
+        "free" : 0, 
+        "visible" : 0,
+        "nom_promotion" : "Promo 2021",
+        "niveau_formation" : "Ingénieur",     
+        "groupe1" : {
+  
+          "group_name" : "groupe1",
+  
+          "lundi" : {
+  
+            "m1" : {         
+              "nom" : "OGL",
+              "type" : "Ei",
+              "profs" : "Emmanuel Amblard",
+              "fixed" : 0                           
+    
+            },
+            "m2" : {    
+              "nom" : "JAVA",            
+              "type" : "Tp",
+              "profs" : "Marie Romain",
+              "fixed" : 0
+                
+          },
+          "m3" : {
+            "nom" : "BDD",    
+            "type" : "Cours",
+            "profs" : "William Ruchaud",
+            "fixed" : 0    
+                
+          },
+          "m4" : {
+            "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "Raissa Troispoux",
+            "fixed" : 0
+                
+          },
+          "m5" : {
+              "nom" : " Electronique",
+                "type" : "Cours",
+                "profs" : "Christian Desvalois",
+                "fixed" : 0
+                
+          }
+  
+          },
+          "mardi" : {
+  
+            "m1" : {         
+              "nom" : " Electronique",
+              "type" : "Cours",
+              "profs" : "Christian Desvalois",
+              "fixed" : 0                           
+    
+            },
+            "m2" : {    
+              "nom" : "Analyse Numerique",            
+              "type" : "Ei",
+              "profs" : "Mouhamadou Moctar",
+              "fixed" : 0
+                
+          },
+          "m3" : {
+            "nom" : "Anglais",    
+            "type" : "Cours",
+            "profs" : "Alexia Herault",
+            "fixed" : 0 
+                
+          },
+          "m4" : {
+            "nom" : "Qualite",
+            "type" : "Ds",
+            "profs" : "Anne-Laure Andrieu",
+            "fixed" : 0
+                
+          },
+          "m5" : {
+            "nom" : " Developpement Durable",
+            "type" : "Cours",
+            "profs" : "Marie-Line Condat",
+            "fixed" : 0
+                
+          }
+  
+          },
+          "mercredi" : {
+  
+            "m1" : {         
+              "nom" : "BDD",
+              "type" : "Cours",
+              "profs" : "William Ruchaud",
+              "fixed" : 0                           
+    
+            },
+            "m2" : {    
+              "nom" : " Developpement Durable",
+              "type" : "Cours",
+              "profs" : "Marie-Line Condat",
+              "fixed" : 0
+                
+          },
+          "m3" : {
+            "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "Raissa Troispoux",
+            "fixed" : 0
+                
+          },
+          "m4" : {
+            "nom" : "Management",
+            "type" : "Cours",
+            "profs" : "Maitre",
+            "fixed" : 0
+                
+          },
+          "m5" : {
+            "nom" : " Gestion des risques",
+            "type" : "Cours",
+            "profs" : "Thierry Larion",
+            "fixed" : 0
+                
+          }
+  
+          },
+          "jeudi" : {
+  
+            "m1" : {         
+              "nom" : "Management",
+              "type" : "Cours",
+              "profs" : "Maitre",
+              "fixed" : 0                          
+    
+            },
+            "m2" : {    
+              "nom" : " Gestion des risques",
+              "type" : "Cours",
+              "profs" : "Thierry Larion",
+              "fixed" : 0
+                
+          },
+          "m3" : {
+            "nom" : "POO",    
+            "type" : "Tp",
+            "profs" : "Marie Romain",
+            "fixed" : 0 
+                
+          },
+          "m4" : {
+            "nom" : "Anglais",
+            "type" : "Cours",
+            "profs" : "Alexia Herault",
+            "fixed" : 0
+                
+          },
+          "m5" : {
+            "nom" : " Frameworks",
+            "type" : "Cours",
+            "profs" : "Julien Hochgenug",
+            "fixed" : 0
+                
+          }
+  
+          },
+          "vendredi" : {
+  
+            "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud",
+              "fixed" : 0                           
+    
+            },
+            "m2" : {    
+              "nom" : "BDD",            
+              "type" : "Cours",
+              "profs" : "William Ruchaud",
+              "fixed" : 0
+                
+          },
+          "m3" : {
+            "nom" : "JAVA",    
+            "type" : "Td",
+            "profs" : "Herve Gaudin",
+            "fixed" : 0 
+                
+          },
+          "m4" : {
+            "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "Raissa Troispoux",
+            "fixed" : 0
+                
+          },
+          "m5" : {
+            "nom" : " Droits",
+            "type" : "Cours",
+            "profs" : "Audrey Lauwers",
+            "fixed" : 0
+                
+          }
+  
+          }
+  
+                                           
+        },
+        "groupe2" : {
+  
+          "group_name" : "groupe2",
+  
+          "lundi" : {
+  
+            "m1" : {         
+              "nom" : "POO",
+              "type" : "Ei",
+              "profs" : "Marie Romain",
+              "fixed" : 0                           
+    
+            },
+            "m2" : {    
+              "nom" : "SIE",            
+              "type" : "Td",
+              "profs" : "Patrice Pegaule",
+              "fixed" : 0
+                
+          },
+          "m3" : {
+            "nom" : "JAVA",    
+            "type" : "Td",
+            "profs" : "Herve Gaudin",
+            "fixed" : 0    
+                
+          },
+          "m4" : {
+            "nom" : "Anglais",
+            "type" : "Cours",
+            "profs" : "Alexia Herault",
+            "fixed" : 0
+                
+          },
+          "m5" : {
+            "nom" : " Qualité",
+            "type" : "Td",
+            "profs" : "Anne-Laure Andrieu",
+            "fixed" : 0
+                
+          }
+  
+          },
+          "mardi" : {
+  
+            "m1" : {         
+              "nom" : "Electronique",            
+              "type" : "Tp",
+              "profs" : "Christian Desvalois",
+              "fixed" : 0                         
+    
+            },
+            "m2" : {    
+             "nom" : " Qualité",
+             "type" : "Cours",
+             "profs" : "Anne-Laure Andrieu",
+             "fixed" : 0  
+                
+          },
+          "m3" : {
+            "nom" : "JAVA",    
+            "type" : "Ei",
+            "profs" : "Marie Romain",
+            "fixed" : 0 
+                
+          },
+          "m4" : {
+            "nom" : "Signal",
+            "type" : "Cours",
+            "profs" : "Karmel Frigui",
+            "fixed" : 0
+                
+          },
+          "m5" : {
+            "nom" : " Web Java",
+            "type" : "Tp",
+            "profs" : "Fethi Belabdelli",
+            "fixed" : 0
+                
+          }
+  
+          },
+          "mercredi" : {
+  
+            "m1" : {         
+              "nom" : " Web Java",
+              "type" : "Tp",
+              "profs" : "Fethi Belabdelli",
+              "fixed" : 0                         
+    
+            },
+            "m2" : {    
+              "nom" : "Signal",
+              "type" : "Cours",
+              "profs" : "Karmel Frigui",
+              "fixed" : 0
+                
+          },
+          "m3" : {
+            "nom" : "Gestion des riques",    
+            "type" : "Cours",
+            "profs" : "Thierry Larion",
+            "fixed" : 0 
+                
+          },
+          "m4" : {
+            "nom" : "Frameworks",
+            "type" : "Tp",
+            "profs" : "Julien Hochgenug",
+            "fixed" : 0
+                
+          },
+          "m5" : {
+            "nom" : " Technos Web",
+            "type" : "Cours",
+            "profs" : "William Ruchaud",
+            "fixed" : 0
+                
+          }
+  
+          },
+          "jeudi" : {
+  
+            "m1" : {         
+              "nom" : "POO",    
+              "type" : "Tp",
+              "profs" : "Marie Romain",
+              "fixed" : 0                           
+    
+            },
+            "m2" : {    
+              "nom" : "Dev Si",            
+              "type" : "Tp",
+              "profs" : "Jerome Grasset",
+              "fixed" : 0
+                
+          },
+          "m3" : {
+            "nom" : "Serveur App",    
+            "type" : "Tp",
+            "profs" : "Emmanuel Amblard",
+            "fixed" : 0 
+                
+          },
+          "m4" : {
+            "nom" : "Developpement Durable",
+            "type" : "Cours",
+            "profs" : "Marie-Line Condat",
+            "fixed" : 0
+                
+          },
+          "m5" : {
+            "nom" : " Droits",
+            "type" : "Td",
+            "profs" : "Audrey Lauwers",
+            "fixed" : 0
+                
+          }
+  
+          },
+          "vendredi" : {
+  
+            "m1" : {         
+              "nom" : "Developpement Durable",
+              "type" : "Cours",
+              "profs" : "Marie-Line Condat",
+              "fixed" : 0                         
+    
+            },
+            "m2" : {    
+              "nom" : "POO",
+              "type" : "Tp",
+              "profs" : "Marie Romain",
+              "fixed" : 0
+                
+          },
+          "m3" : {
+            "nom" : "Analyse Numerique",    
+            "type" : "Tp",
+            "profs" : "Mouhamadou Moctar",
+            "fixed" : 0 
+                
+          },
+          "m4" : {
+            "nom" : "OGL",
+            "type" : "Tp",
+            "profs" : "Emmanuel Amblard",
+            "fixed" : 0
+                
+          },
+          "m5" : {
+            "nom" : " SIE",
+            "type" : "Cours",
+            "profs" : "Patrice Pegaule",
+            "fixed" : 0
+                
+          }
+      }
+    },
+    "groupe3" : {
+  
+      "group_name" : "groupe3",
+   
+      "lundi" : {
+      
+        "m1" : {             
+          "nom" : "OGL",
+          "type" : "Tp",
+          "profs" : "Emmanuel Amblard",
+          "fixed" : 0                          
+  
+        },
+        "m2" : {    
+          "nom" : " SIE",
+          "type" : "Cours",
+          "profs" : "Patrice Pegaule",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+        "nom" : "Signal",    
+        "type" : "Tp",
+        "profs" : "Karmel Frigui",
+        "fixed" : 0    
+            
+      },
+      "m4" : {
+        "nom" : "Dev Si",
+        "type" : "Cours",
+        "profs" : "Jerome Grasset",
+        "fixed" : 0
+            
+      },
+      "m5" : {
+        "nom" : " Management",
+        "type" : "Cours",
+        "profs" : "Maitre",
+        "fixed" : 0
+            
+      }
+  
+      },
+      "mardi" : {
+  
+        "m1" : {         
+          "nom" : "Serveur App",
+          "type" : "Cours",
+          "profs" : "Emmanuel Amblard",
+          "fixed" : 0                           
+  
+        },
+        "m2" : {    
+          "nom" : "BDD",            
+          "type" : "Cours",
+          "profs" : "William Ruchaud",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+        "nom" : "JAVA",    
+        "type" : "Cours",
+        "profs" : "William Ruchaud",
+        "fixed" : 0 
+            
+      },
+      "m4" : {
+        "nom" : "Recrutement",
+        "type" : "Cours",
+        "profs" : "Raissa Troispoux",
+        "fixed" : 0
+            
+      },
+      "m5" : {
+        "nom" : " Anglais",
+        "type" : "Cours",
+        "profs" : "Alexia Herault",
+        "fixed" : 0
+            
+      }
+  
+      },
+      "mercredi" : {
+  
+        "m1" : {         
+          "nom" : " Anglais",
+          "type" : "Cours",
+          "profs" : "Alexia Herault",
+          "fixed" : 0                           
+  
+        },
+        "m2" : {    
+          "nom" : "Analyse Numerique",            
+          "type" : "Cours",
+          "profs" : "Mouhamadou Moctar",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+        "nom" : "Signal",    
+        "type" : "Td",
+        "profs" : "Karmel Frigui",
+        "fixed" : 0 
+            
+      },
+      "m4" : {
+        "nom" : "Qualite",
+        "type" : "Cours",
+        "profs" : "Anne-Laure Andrieu",
+        "fixed" : 0
+            
+      },
+      "m5" : {
+        "nom" : " Conduite de reunion",
+        "type" : "Td",
+        "profs" : "Martine Binet",
+        "fixed" : 0
+            
+      }
+  
+      },
+      "jeudi" : {
+  
+        "m1" : {         
+          "nom" : "Qualite",
+          "type" : "Cours",
+          "profs" : "Anne-Laure Andrieu",
+          "fixed" : 0                          
+  
+        },
+        "m2" : {    
+          "nom" : " Conduite de reunion",
+          "type" : "Td",
+          "profs" : "Martine Binet",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+        "nom" : "JAVA",    
+        "type" : "Td",
+        "profs" : "Herve Gaudin",
+        "fixed" : 0 
+            
+      },
+      "m4" : {
+        "nom" : "Gestion des Risques",
+        "type" : "Cours",
+        "profs" : "Thierry Larion",
+        "fixed" : 0
+            
+      },
+      "m5" : {
+          "nom" : " BDD",
+            "type" : "Cours",
+            "profs" : "William Ruchaud",
+            "fixed" : 0
+            
+      }
+  
+      },
+      "vendredi" : {
+  
+        "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud",
+          "fixed" : 0                           
+  
+        },
+        "m2" : {    
+          "nom" : "Gestion des risques",            
+          "type" : "Td",
+          "profs" : "Thierry Larion",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+        "nom" : "SIE",    
+        "type" : "Cours",
+        "profs" : "Patrice Pegaule",
+        "fixed" : 0 
+            
+      },
+      "m4" : {
+        "nom" : "OGL",
+        "type" : "Tp",
+        "profs" : "Emmanuel Amblard",
+        "fixed" : 0
+            
+      },
+      "m5" : {
+        "nom" : " Droits",
+        "type" : "Cours",
+        "profs" : "Audrey Lauwers",
+        "fixed" : 0
+            
+      }
+  
+      }
+  
+                                       
+    }
+  },
+    {
+      "id" : 5,    
+      "nom" : "S42",
+      "date_debut" : "12-10-20",
+      "date_fin"   : "16-10-20",
+      "full" : 0,
+      "free" : 0, 
+      "visible" : 0,
+      "nom_promotion" : "Promo 2021",
+      "niveau_formation" : "Ingénieur",    
+      "groupe1" : {
+  
+        "group_name" : "groupe1",
+  
+        "lundi" : {
+  
+          "m1" : {         
+           "nom" : "Droits",
+            "type" : "Td",
+            "profs" : "Audrey Lauwers",
+            "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "Web Java",            
+            "type" : "Tp",
+            "profs" : "Fethi Belabdelli",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "Langage C",    
+          "type" : "Cours",
+          "profs" : "Fethi Belabdelli",
+          "fixed" : 0    
+              
+        },
+        "m4" : {
+          "nom" : "Electronique",
+          "type" : "Tp",
+          "profs" : "Christian Desvalois",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : " Analyse Numerique",
+          "type" : "Cours",
+          "profs" : "Mouhamadou Moctar",
+          "fixed" : 0
+              
+        }
+  
+        },
+        "mardi" : {
+  
+          "m1" : {         
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud",
+            "fixed" : 0                          
+  
+          },
+          "m2" : {    
+            "nom" : " Analyse Numerique",
+            "type" : "Cours",
+            "profs" : "Mouhamadou Moctar",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "Signal",    
+          "type" : "Cours",
+          "profs" : "Karmel Frigui",
+          "fixed" : 0 
+              
+        },
+        "m4" : {
+            "nom" : "Qualite",
+              "type" : "Cours",
+              "profs" : "Anne-Laure Andrieu",
+              "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " Recrutement",
+              "type" : "Cours",
+              "profs" : "Raissa Troispoux",
+              "fixed" : 0
+              
+        }
+  
+        },
+        "mercredi" : {
+  
+          "m1" : {         
+            "nom" : "Technos Web",
+            "type" : "Ei",
+            "profs" : "William Ruchaud",
+            "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "Serveur App",    
+            "type" : "Cours",
+            "profs" : "Emmanuel Amblard",
+            "fixed" : 0 
+              
+        },
+        "m3" : {
+          "nom" : "SIE",    
+          "type" : "Ds",
+          "profs" : "Patrice Pegaule",
+          "fixed" : 0 
+              
+        },
+        "m4" : {
+          "nom" : "Electronique",
+          "type" : "Ds",
+          "profs" : "Christian Desvalois",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : " Management",
+          "type" : "Cours",
+          "profs" : "Maitre",
+          "fixed" : 0
+              
+        }
+  
+        },
+        "jeudi" : {
+  
+          "m1" : {         
+            "nom" : "Electronique",
+            "type" : "Tp",
+            "profs" : "Christian Desvalois",
+            "fixed" : 0
+                                          
+  
+          },
+          "m2" : {    
+            "nom" : " Management",
+            "type" : "Cours",
+            "profs" : "Maitre",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "OGL",    
+          "type" : "Cours",
+          "profs" : "Emmanuel Amblard",
+          "fixed" : 0 
+              
+        },
+        "m4" : {
+          "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "Raissa Troispoux",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+            "nom" : " BDD",
+              "type" : "Ei",
+              "profs" : "William Ruchaud",
+              "fixed" : 0
+              
+        }
+  
+        },
+        "vendredi" : {
+  
+          "m1" : {         
+            "nom" : "JAVA",
+            "type" : "Td",
+            "profs" : "Herve Gaudin",
+            "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "Signal",            
+            "type" : "Cours",
+            "profs" : "Karmel Frigui",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "Developpement Durable",    
+          "type" : "Cours",
+          "profs" : "Marie-Line Condat",
+          "fixed" : 0 
+              
+        },
+        "m4" : {
+          "nom" : "Anglais",
+          "type" : "Ds",
+          "profs" : "William Ruchaud",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : " OGL",
+          "type" : "Tp",
+          "profs" : "Emmanuel Amblard",
+          "fixed" : 0
+              
+        }
+  
+        }
+  
+                                         
+      },
+      "groupe2" : {
+  
+        "group_name" : "groupe2",
+  
+        "lundi" : {
+  
+          "m1" : {         
+           "nom" : "Technos Web",
+            "type" : "Cours",
+            "profs" : "William Ruchaud",
+            "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "JAVA",    
+          "type" : "Td",
+          "profs" : "Herve Gaudin",
+          "fixed" : 0    
+              
+        },
+        "m4" : {
+          "nom" : "Qualite",
+          "type" : "Cours",
+          "profs" : "Anne-Laure Andrieu",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : " Management",
+          "type" : "Cours",
+          "profs" : "Maitre",
+          "fixed" : 0
+              
+        }
+  
+        },
+        "mardi" : {
+  
+          "m1" : {         
+           "nom" : "SIE",
+            "type" : "Cours",
+            "profs" : "Patrice Pegaule",
+            "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "Electronique",            
+            "type" : "Cours",
+            "profs" : "Christian Desvalois",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "Conduite de reunion",    
+          "type" : "Cours",
+          "profs" : "Martine Binet",
+          "fixed" : 0 
+              
+        },
+        "m4" : {
+          "nom" : "Gestion des Risques",
+          "type" : "Cours",
+          "profs" : "Thierry Larion",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : " Internet",
+          "type" : "Cours",
+          "profs" : "Pierre Francou",
+          "fixed" : 0
+              
+        }
+  
+        },
+        "mercredi" : {
+  
+          "m1" : {         
+            "nom" : "Gestion des Risques",
+            "type" : "Cours",
+            "profs" : "Thierry Larion",
+            "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : " Internet",
+            "type" : "Cours",
+            "profs" : "Pierre Francou",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "Frameworks",    
+          "type" : "Ei",
+          "profs" : "Julien Hochgenug",
+          "fixed" : 0 
+              
+        },
+        "m4" : {
+          "nom" : "Droits",
+          "type" : "Ds",
+          "profs" : "Audrey Lauwers",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : " Recrutement",
+          "type" : "Cours",
+          "profs" : "Raissa Troispoux",
+          "fixed" : 0
+              
+        }
+  
+        },
+        "jeudi" : {
+  
+          "m1" : {         
+            "nom" : "Dev Si",
+            "type" : "Ei",
+            "profs" : "Jerome Grasset",
+            "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "Serveur App",            
+            "type" : "Cours",
+            "profs" : "Emmanuel Amblard",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "OGL",    
+          "type" : "Cours",
+          "profs" : "Emmanuel Amblard",
+          "fixed" : 0 
+              
+        },
+        "m4" : {
+          "nom" : "Langage C",
+          "type" : "Cours",
+          "profs" : "Fethi Belabdelli",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : " Management",
+          "type" : "Cours",
+          "profs" : "Maitre",
+          "fixed" : 0
+              
+        }
+  
+        },
+        "vendredi" : {
+  
+          "m1" : {         
+           "nom" : "Web Java",
+            "type" : "Cours",
+            "profs" : "Fethi Belabdelli",
+            "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud",
+            "fixed" : 0
+              
+        },
+        "m3" : {
+          "nom" : "Frameworks",    
+          "type" : "Tp",
+          "profs" : "Julien Hochgenug",
+          "fixed" : 0 
+              
+        },
+        "m4" : {
+          "nom" : "Droits",
+          "type" : "Cours",
+          "profs" : "Audrey Lauwers",
+          "fixed" : 0
+              
+        },
+        "m5" : {
+          "nom" : " Qualite",
+          "type" : "Cours",
+          "profs" : "Anne-Laure Andrieu",
+          "fixed" : 0
+              
+        }
+    }
+  },
+  "groupe3" : {
+  
+    "group_name" : "groupe3",
+   
+    "lundi" : {
+    
+      "m1" : {             
+        "nom" : " Qualite",
+        "type" : "Cours",
+        "profs" : "Anne-Laure Andrieu",
+        "fixed" : 0                         
+  
+      },
+      "m2" : {    
+        "nom" : "BDD",                             
+        "type" : "Cours",
+        "profs" : "William Ruchaud",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+      "nom" : "Droits",
+      "type" : "Cours",
+      "profs" : "Audrey Lauwers",
+      "fixed" : 0   
+          
+    },
+    "m4" : {
+      "nom" : "Signal",
+      "type" : "Cours",
+      "profs" : "Karmel Frigui",
+      "fixed" : 0
+          
+    },
+    "m5" : {
+      "nom" : " Langage C",
+      "type" : "Cours",
+      "profs" : "fethi Belabdelli",
+      "fixed" : 0
+          
+    }
+  
+    },
+    "mardi" : {
+  
+      "m1" : {         
+        "nom" : "Signal",
+        "type" : "Cours",
+        "profs" : "Karmel Frigui",
+        "fixed" : 0
+                                      
+  
+      },
+      "m2" : {    
+       "nom" : " Langage C",
+       "type" : "Cours",
+       "profs" : "Fethi Belabdelli",
+       "fixed" : 0
+          
+    },
+    "m3" : {
+      "nom" : "JAVA",    
+      "type" : "Tp",
+      "profs" : "Marie Romain",
+      "fixed" : 0 
+          
+    },
+    "m4" : {
+      "nom" : "Web Java",
+      "type" : "Cours",
+      "profs" : "Fethi Belabdelli",
+      "fixed" : 0
+          
+    },
+    "m5" : {
+      "nom" : " Analyse Numerique",
+      "type" : "Cours",
+       "profs" : "Mouhamadou Moctar",
+      "fixed" : 0
+          
+    }
+  
+    },
+    "mercredi" : {
+  
+      "m1" : {         
+       "nom" : "Anglais",
+        "type" : "Cours",
+        "profs" : "Alexia Herault",
+        "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "Management",            
+        "type" : "Cours",
+        "profs" : "Maitre",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+      "nom" : "SIE",    
+      "type" : "Cours",
+      "profs" : "Patrice Pegaule",
+      "fixed" : 0 
+          
+    },
+    "m4" : {
+      "nom" : "Droits",
+      "type" : "Cours",
+      "profs" : "Audrey Lauwers",
+      "fixed" : 0
+          
+    },
+    "m5" : {
+      "nom" : " Qualite",
+      "type" : "Cours",
+      "profs" : "Anne-Laure Andrieu",
+      "fixed" : 0
+          
+    }
+  
+    },
+    "jeudi" : {
+  
+      "m1" : {         
+        "nom" : "Droits",
+        "type" : "Cours",
+        "profs" : "Audrey Lauwers",
+        "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : " Qualite",
+        "type" : "Cours",
+        "profs" : "Anne-Laure Andrieu",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+      "nom" : "Web Java",    
+      "type" : "Cours",
+      "profs" : "Fethi Belabdelli",
+      "fixed" : 0 
+          
+    },
+    "m4" : {
+      "nom" : "Serveur App",
+      "type" : "Cours",
+      "profs" : "Emmanuel Amblard",
+      "fixed" : 0
+          
+    },
+    "m5" : {
+      "nom" : " Langage C",
+      "type" : "Cours",
+      "profs" : "Fethi Belabdelli",
+      "fixed" : 0
+          
+    }
+  
+    },
+    "vendredi" : {
+  
+      "m1" : {         
+        "nom" : "Serveur App",
+        "type" : "Cours",
+        "profs" : "Emmanuel Amblard",
+        "fixed" : 0                          
+  
+      },
+      "m2" : {    
+        "nom" : " Langage C",
+        "type" : "Ei",
+        "profs" : "Fethi Belabdelli",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+      "nom" : "Dev Si",    
+      "type" : "Cours",
+      "profs" : "Jerome Grasset",
+      "fixed" : 0 
+          
+    },
+    "m4" : {
+      "nom" : "Developpement Durable",
+      "type" : "Ds",
+      "profs" : "Marie-Line Condat",
+      "fixed" : 0
+          
+    },
+    "m5" : {
+      "nom" : " SIE",
+      "type" : "Cours",
+      "profs" : "Patrice Pegaule",
+      "fixed" : 0
+          
+    }
+  
+    }
+  
+                                     
+  }
+  },
+  {
+    "id" : 6,    
+    "nom" : "S43",
+    "date_debut" : "19-10-20",
+    "date_fin"   : "23-10-20",
+    "full" : 0,
+    "free" : 0, 
+    "visible" : 0,
+    "nom_promotion" : "Promo 2021",
+    "niveau_formation" : "Ingénieur",    
+    "groupe1" : {
+  
+      "group_name" : "groupe1",
+  
+      "lundi" : {
+  
+        "m1" : {         
+          "nom" : " SIE",
+          "type" : "Cours",
+          "profs" : "Patrice Pegaule",
+          "fixed" : 0                         
+  
+        },
+        "m2" : {    
+          "nom" : "Langage C",            
+          "type" : "Cours",
+          "profs" : "Fethi Belabdelli",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+        "nom" : "JAVA",    
+        "type" : "Td",
+        "profs" : "Herve Gaudin",
+        "fixed" : 0    
+            
+      },
+      "m4" : {
+        "nom" : "Recrutement",
+        "type" : "Cours",
+        "profs" : "Raissa Troispoux",
+        "fixed" : 0
+            
+      },
+      "m5" : {
+        "nom" : " Management",
+        "type" : "Ds",
+        "profs" : "Maitre",
+        "fixed" : 0
+            
+      }
+  
+      },
+      "mardi" : {
+  
+        "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud",
+          "fixed" : 0                           
+  
+        },
+        "m2" : {    
+          "nom" : "Signal",            
+          "type" : "Cours",
+          "profs" : "Karmel Frigui",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+        "nom" : "Serveur App",    
+        "type" : "Cours",
+        "profs" : "Fethi Belabdelli",
+        "fixed" : 0 
+            
+      },
+      "m4" : {
+        "nom" : "Anglais",
+        "type" : "Cours",
+        "profs" : "Alexia Herault",
+        "fixed" : 0
+            
+      },
+      "m5" : {
+        "nom" : " Analyse Numerique",
+        "type" : "Cours",
+        "profs" : "Mouhamadou Moctar",
+        "fixed" : 0
+            
+      }
+  
+      },
+      "mercredi" : {
+  
+        "m1" : {         
+          "nom" : "Anglais",
+          "type" : "Cours",
+          "profs" : "Alexia Herault",
+          "fixed" : 0                         
+  
+        },
+        "m2" : {    
+          "nom" : " Analyse Numerique",
+         "type" : "Cours",
+         "profs" : "Mouhamadou Moctar",
+         "fixed" : 0
+            
+      },
+      "m3" : {
+        "nom" : "BDD",    
+        "type" : "Cours",
+        "profs" : "William Ruchaud",
+        "fixed" : 0 
+            
+      },
+      "m4" : {
+        "nom" : "Recrutement",
+        "type" : "Cours",
+        "profs" : "Raissa Troispoux",
+         "fixed" : 0
+            
+      },
+      "m5" : {
+        "nom" : " Anglais",
+        "type" : "Cours",
+        "profs" : "Alexia Herault",
+        "fixed" : 0
+            
+      }
+  
+      },
+      "jeudi" : {
+  
+        "m1" : {         
+          "nom" : "Conduite de reunion",
+          "type" : "Cours",
+          "profs" : "Martine Binet",
+          "fixed" : 0                           
+  
+        },
+        "m2" : {    
+          "nom" : "OGL",            
+          "type" : "Tp",
+          "profs" : "Emmanuel Amblard",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+        "nom" : "Internet",    
+        "type" : "Ds",
+        "profs" : "Pierre Francou",
+        "fixed" : 0 
+            
+      },
+      "m4" : {
+          "nom" : "Frameworks",
+          "type" : "Tp",
+          "profs" : "Julien Hochgenug",
+          "fixed" : 0
+            
+      },
+      "m5" : {
+        "nom" : " Electronique",
+        "type" : "Tp",
+        "profs" : "Christian Desvalois",
+        "fixed" : 0
+            
+      }
+  
+      },
+      "vendredi" : {
+  
+        "m1" : {         
+         "nom" : "JAVA",
+          "type" : "Ei",
+          "profs" : "Marie Romain",
+          "fixed" : 0                           
+  
+        },
+        "m2" : {    
+          "nom" : "POO",            
+          "type" : "Cours",
+          "profs" : "Marie Romain",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+        "nom" : "Qualite",    
+        "type" : "Ds",
+        "profs" : "Anne-Laure Andrieu",
+        "fixed" : 0 
+            
+      },
+      "m4" : {
+        "nom" : "Electronique",
+        "type" : "Tp",
+        "profs" : "Christian Desvalois",
+        "fixed" : 0
+            
+      },
+      "m5" : {
+        "nom" : " Management",
+        "type" : "Cours",
+        "profs" : "Maitre",
+        "fixed" : 0
+            
+      }
+  
+      }
+  
+                                       
+    },
+    "groupe2" : {
+  
+      "group_name" : "groupe2",
+  
+      "lundi" : {
+  
+        "m1" : {         
+          "nom" : " Management",
+          "type" : "Cours",
+          "profs" : "Maitre",
+          "fixed" : 0
+                                      
+  
+        },
+        "m2" : {    
+          "nom" : "Technos Web",            
+          "type" : "Cours",
+          "profs" : "William Ruchaud",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+        "nom" : "Langage C",    
+        "type" : "Cours",
+        "profs" : "Fethi Belabdelli",
+        "fixed" : 0    
+            
+      },
+      "m4" : {
+        "nom" : "Web Java",
+        "type" : "Cours",
+        "profs" : "Fethi Belabdelli",
+         "fixed" : 0
+            
+      },
+      "m5" : {
+        "nom" : " Internet",
+        "type" : "Tp",
+        "profs" : "Pierre Francou",
+        "fixed" : 0
+            
+      }
+  
+      },
+      "mardi" : {
+  
+        "m1" : {         
+          "nom" : "Langage C",    
+          "type" : "Cours",
+          "profs" : "Fethi Belabdelli",
+          "fixed" : 0
+        },
+        "m2" : {    
+          "nom" : " Internet",
+          "type" : "Tp",
+          "profs" : "Pierre Francou",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+        "nom" : "Frameworks",    
+        "type" : "Cours",
+        "profs" : "Julien Hochgenug",
+        "fixed" : 0 
+            
+      },
+      "m4" : {
+        "nom" : "Recrutement",
+        "type" : "Cours",
+        "profs" : "Raissa Troispoux",
+        "fixed" : 0
+            
+      },
+      "m5" : {
+        "nom" : " Signal",
+        "type" : "Cours",
+        "profs" : "Karmel Frigui",
+        "fixed" : 0
+            
+      }
+  
+      },
+      "mercredi" : {
+  
+        "m1" : {         
+          "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "Raissa Troispoux",
+          "fixed" : 0                        
+  
+        },
+        "m2" : {    
+          "nom" : " Signal",
+          "type" : "Ds",
+          "profs" : "Karmel Frigui",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+        "nom" : "SIE",    
+        "type" : "Cours",
+        "profs" : "Patrice Pegaule",
+        "fixed" : 0 
+            
+      },
+      "m4" : {
+        "nom" : "Qualite",
+        "type" : "Cours",
+        "profs" : "Anne-Laure Andrieu",
+        "fixed" : 0
+            
+      },
+      "m5" : {
+        "nom" : " Gestion des risques",
+        "type" : "Cours",
+        "profs" : "Thierry Larion",
+        "fixed" : 0
+            
+      }
+  
+      },
+      "jeudi" : {
+  
+        "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Ei",
+          "profs" : "William Ruchaud",
+          "fixed" : 0                           
+  
+        },
+        "m2" : {    
+          "nom" : "Developpement Durable",            
+          "type" : "Cours",
+          "profs" : "William Ruchaud",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+        "nom" : "Dev Si",    
+        "type" : "Cours",
+        "profs" : "Jerome Grasset",
+        "fixed" : 0 
+            
+      },
+      "m4" : {
+        "nom" : "Anglais",
+        "type" : "Cours",
+        "profs" : "Alexia Herault",
+        "fixed" : 0
+            
+      },
+      "m5" : {
+        "nom" : " Droits",
+        "type" : "Cours",
+        "profs" : "Audrey Lauwers",
+        "fixed" : 0
+            
+      }
+  
+      },
+      "vendredi" : {
+  
+        "m1" : {         
+          "nom" : "POO",
+          "type" : "Tp",
+          "profs" : "Romain Marie",
+          "fixed" : 0                           
+  
+        },
+        "m2" : {    
+          "nom" : "BDD",            
+          "type" : "Cours",
+          "profs" : "William Ruchaud",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+        "nom" : "Management",    
+        "type" : "Cours",
+        "profs" : "Maitre",
+        "fixed" : 0 
+            
+      },
+      "m4" : {
+        "nom" : "Conduite de reunion",
+        "type" : "Cours",
+        "profs" : "Martine Binet",
+        "fixed" : 0
+            
+      },
+      "m5" : {
+        "nom" : " OGL",
+        "type" : "Cours",
+        "profs" : "Emmanuel Amblard",
+        "fixed" : 0
+            
+      }
+  }
+  },
+  "groupe3" : {
+  
+  "group_name" : "groupe3",
+   
+  "lundi" : {
+  
+    "m1" : {             
+      "nom" : "Droits",    
+      "type" : "Ds",
+      "profs" : "Audrey Lauwers",           
+      "fixed" : 0                           
+  
+    },
+    "m2" : {    
+      "nom" : "OGL",                             
+      "type" : "Cours",
+      "profs" : "Emmanuel Amblard",
+      "fixed" : 0
+        
+  },
+  "m3" : {
+    "nom" : "JAVA",    
+    "type" : "Ei",
+    "profs" : "Herve Gaudin",
+    "fixed" : 0    
+        
+  },
+  "m4" : {
+    "nom" : "Serveur App",
+    "type" : "Cours",
+    "profs" : "Emmanuel Amblard",
+    "fixed" : 0
+        
+  },
+  "m5" : {
+    "nom" : " Langage C",
+    "type" : "Cours",
+    "profs" : "Fethi Belabdelli",
+    "fixed" : 0
+        
+  }
+  
+  },
+  "mardi" : {
+  
+    "m1" : {         
+      "nom" : "SIE",
+      "type" : "Cours",
+      "profs" : "Patrice Pegaule",
+      "fixed" : 0                           
+  
+    },
+    "m2" : {    
+      "nom" : "Analyse Numerique",            
+      "type" : "Tp",
+      "profs" : "Mouhamadou Moctar",
+      "fixed" : 0
+        
+  },
+  "m3" : {
+      "nom" : "Modelisation",    
+      "type" : "Cours",
+      "profs" : "Mouhamadou Moctar",
+      "fixed" : 0 
+        
+  },
+  "m4" : {
+    "nom" : "Web Java",
+    "type" : "Cours",
+    "profs" : "Fethi Belabdelli",
+    "fixed" : 0
+        
+  },
+  "m5" : {
+    "nom" : " Management",
+    "type" : "Cours",
+    "profs" : "Maitre",
+    "fixed" : 0
+        
+  }
+  
+  },
+  "mercredi" : {
+  
+    "m1" : {         
+      "nom" : "Modelisation",    
+      "type" : "Tp",
+      "profs" : "Mouhamadou Moctar",
+      "fixed" : 0                          
+  
+    },
+    "m2" : {    
+      "nom" : "Internet",            
+      "type" : "Tp",
+      "profs" : "Pierre Francou",
+      "fixed" : 0
+        
+  },
+  "m3" : {
+    "nom" : "Electronique",    
+    "type" : "Tp",
+    "profs" : "Christian Desvalois",
+    "fixed" : 0 
+        
+  },
+  "m4" : {
+    "nom" : "Dev Si",
+    "type" : "Cours",
+    "profs" : "Jerome Grasset",
+    "fixed" : 0
+        
+  },
+  "m5" : {
+      "nom" : "Developpement durable",
+      "type" : "Cours",
+      "profs" : "Marie-Line Condat",
+       "fixed" : 0
+        
+  }
+  
+  },
+  "jeudi" : {
+  
+    "m1" : {         
+      "nom" : "Frameworks",
+      "type" : "Tp",
+      "profs" : "Julien Hochgenug",
+      "fixed" : 0                           
+  
+    },
+    "m2" : {    
+      "nom" : "Signal",            
+      "type" : "Td",
+      "profs" : "Julien Hochgenug",
+      "fixed" : 0
+        
+  },
+  "m3" : {
+    "nom" : "POO",    
+    "type" : "Tp",
+    "profs" : "Marie Romain",
+    "fixed" : 0 
+        
+  },
+  "m4" : {
+    "nom" : "Management",
+    "type" : "Cours",
+    "profs" : "Maitre",
+    "fixed" : 0
+        
+  },
+  "m5" : {
+    "nom" : "Technos Web",
+    "type" : "Cours",
+    "profs" : "William Ruchaud",
+    "fixed" : 0                           
+  
+        
+  }
+  
+  },
+  "vendredi" : {
+  
+    "m1" : {         
+      "nom" : "Technos Web",
+      "type" : "Cours",
+      "profs" : "William Ruchaud",
+      "fixed" : 0                           
+  
+    },
+    "m2" : {    
+      "nom" : "BDD",            
+      "type" : "Cours",
+      "profs" : "William Ruchaud",
+      "fixed" : 0
+        
+  },
+  "m3" : {
+    "nom" : "JAVA",    
+    "type" : "Tp",
+    "profs" : "Marie Romain",
+    "fixed" : 0 
+        
+  },
+  "m4" : {
+    "nom" : "Recrutement",
+    "type" : "Cours",
+    "profs" : "Raissa Troispoux",
+    "fixed" : 0
+        
+  },
+  "m5" : {
+    "nom" : " Electronique",
+    "type" : "Cours",
+    "profs" : "Christian Desvalois",
+    "fixed" : 0
+        
+  }
+  
+  }
+  
+                                   
+  }
+  },
+  {
+  "id" : 7,    
+  "nom" : "S44",
+  "date_debut" : "26-10-20",
+  "date_fin"   : "30-10-20",
+  "full" : 0,
+  "free" : 0, 
+  "visible" : 0,
+  "nom_promotion" : "Promo 2021",
+  "niveau_formation" : "Ingénieur",    
+  "groupe1" : {
+  
+    "group_name" : "groupe1",
+  
+    "lundi" : {
+  
+      "m1" : {         
+          "nom" : "",
+          "type" : "",
+          "profs" : "" ,
+          "fixed" : 0                          
+  
+      },
+      "m2" : {    
+        "nom" : "",            
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "",    
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0    
+          
+    },
+    "m4" : {
+        "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " ",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "mardi" : {
+  
+      "m1" : {         
+          "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "",            
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "",    
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " ",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "mercredi" : {
+  
+      "m1" : {         
+          "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "",            
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "",    
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " ",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "jeudi" : {
+  
+      "m1" : {         
+          "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "",            
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "",    
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " ",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "vendredi" : {
+  
+      "m1" : {         
+          "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "",            
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "",    
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " ",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    }
+  
+    }
+  
+                                     
+  },
+  "groupe2" : {
+  
+    "group_name" : "groupe2",
+  
+    "lundi" : {
+  
+      "m1" : {         
+          "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "",            
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "",    
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0    
+          
+    },
+    "m4" : {
+        "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "mardi" : {
+  
+      "m1" : {         
+          "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "",            
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "",    
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "mercredi" : {
+  
+      "m1" : {         
+          "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "",            
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "",    
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "jeudi" : {
+  
+      "m1" : {         
+          "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "",            
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "",    
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "vendredi" : {
+  
+      "m1" : {         
+          "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "",            
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "",    
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : "",
+          "type" : "",
+          "profs" : "",
+          "fixed" : 0
+          
+    }
+  }
+  },
+  "groupe3" : {
+  
+  "group_name" : "groupe3",
+  
+  "lundi" : {
+  
+    "m1" : {         
+        "nom" : "",
+        "type" : "",
+        "profs" : "" ,
+        "fixed" : 0                          
+  
+    },
+    "m2" : {    
+      "nom" : "",            
+      "type" : "",
+      "profs" : "",
+      "fixed" : 0
+        
+  },
+  "m3" : {
+      "nom" : "",    
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0    
+        
+  },
+  "m4" : {
+      "nom" : "",
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+        
+  },
+  "m5" : {
+      "nom" : " ",
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+        
+  }
+  
+  },
+  "mardi" : {
+  
+    "m1" : {         
+        "nom" : "",
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0                           
+  
+    },
+    "m2" : {    
+      "nom" : "",            
+      "type" : "",
+      "profs" : "",
+      "fixed" : 0
+        
+  },
+  "m3" : {
+      "nom" : "",    
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0 
+        
+  },
+  "m4" : {
+      "nom" : "",
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+        
+  },
+  "m5" : {
+      "nom" : " ",
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+        
+  }
+  
+  },
+  "mercredi" : {
+  
+    "m1" : {         
+        "nom" : "",
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0                           
+  
+    },
+    "m2" : {    
+      "nom" : "",            
+      "type" : "",
+      "profs" : "",
+      "fixed" : 0
+        
+  },
+  "m3" : {
+      "nom" : "",    
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0 
+        
+  },
+  "m4" : {
+      "nom" : "",
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+        
+  },
+  "m5" : {
+      "nom" : " ",
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+        
+  }
+  
+  },
+  "jeudi" : {
+  
+    "m1" : {         
+        "nom" : "",
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0                           
+  
+    },
+    "m2" : {    
+      "nom" : "",            
+      "type" : "",
+      "profs" : "",
+      "fixed" : 0
+        
+  },
+  "m3" : {
+      "nom" : "",    
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0 
+        
+  },
+  "m4" : {
+      "nom" : "",
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+        
+  },
+  "m5" : {
+      "nom" : " ",
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+        
+  }
+  
+  },
+  "vendredi" : {
+  
+    "m1" : {         
+        "nom" : "",
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0                           
+  
+    },
+    "m2" : {    
+      "nom" : "",            
+      "type" : "",
+      "profs" : "",
+      "fixed" : 0
+        
+  },
+  "m3" : {
+      "nom" : "",    
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0 
+        
+  },
+  "m4" : {
+      "nom" : "",
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+        
+  },
+  "m5" : {
+      "nom" : " ",
+        "type" : "",
+        "profs" : "",
+        "fixed" : 0
+        
+  }
+  
+  }
+  
+                                   
+  }
+  },
+  
+  {
+  "id" : 8,    
+  "nom" : "S45",
+  "date_debut" : "02-11-20",
+  "date_fin"   : "06-11-20",
+  "full" : 0,
+  "free" : 0, 
+  "visible" : 0,
+  "nom_promotion" : "Promo 2021",
+  "niveau_formation" : "Ingénieur",    
+  "groupe1" : {
+  
+    "group_name" : "groupe1",
+  
+    "lundi" : {
+  
+      "m1" : {         
+        "nom" : "Serveur App",
+        "type" : "Cours",
+        "profs" : "Emmanuel Amblard",
+        "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "Conduite de reunion",            
+        "type" : "Cours",
+        "profs" : "Martine Binet",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+      "nom" : "Analyse Numerique",    
+      "type" : "Cours",
+      "profs" : "Mouhamadou Moctar",
+      "fixed" : 0    
+          
+    },
+    "m4" : {
+      "nom" : "SIE",
+      "type" : "Cours",
+      "profs" : "Patrice Pegaule",
+      "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " Qualite",
+          "type" : "Cours",
+          "profs" : "Anne-Laure Andrieu",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "mardi" : {
+  
+      "m1" : {         
+          "nom" : "SIE",
+          "type" : "Cours",
+          "profs" : "Patrice Pegaule",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "Modelisation",            
+        "type" : "Ds",
+        "profs" : "Mouhamadou Moctar",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "OGL",    
+          "type" : "Tp",
+          "profs" : "Emmanuel Amblard",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "Internet",
+          "type" : "Ei",
+          "profs" : "Pierre Francou",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " Signal",
+          "type" : "Td",
+          "profs" : "Karmel Frigui",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "mercredi" : {
+  
+      "m1" : {         
+          "nom" : "Anglais",
+          "type" : "Cours",
+          "profs" : "Alexia Herault",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "Dev Si",    
+          "type" : "Cours",
+          "profs" : "Jerome Grasset",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "Gestion des risques",
+          "type" : "Cours",
+          "profs" : "Thierry Larion",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "jeudi" : {
+  
+      "m1" : {         
+          "nom" : "BDD",
+          "type" : "Cours",
+          "profs" : "William Ruchaud",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "Technos Web",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "Recrutement",    
+          "type" : "Cours",
+          "profs" : "Raissa Troispoux",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "Droits",
+          "type" : "Td",
+          "profs" : "Audrey Lauwers",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " Web Java",
+          "type" : "Cours",
+          "profs" : "Fethi Belabdelli",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "vendredi" : {
+  
+      "m1" : {         
+        "nom" : " Web Java",
+          "type" : "Cours",
+          "profs" : "Fethi Belabdelli",
+          "fixed" : 0                         
+  
+      },
+      "m2" : {    
+        "nom" : "Droits",
+          "type" : "Td",
+          "profs" : "Audrey Lauwers",
+          "fixed" : 0
+          
+    },
+    "m3" : {
+      "nom" : " Langage C",
+      "type" : "Cours",
+      "profs" : "Fethi Belabdelli",
+      "fixed" : 0
+          
+    },
+    "m4" : {
+        "nom" : "Qualite",
+          "type" : "Cours",
+          "profs" : "Anne-Laure Andrieu",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " Modelisation",
+          "type" : "Cours",
+          "profs" : "Mouhamadou Moctar",
+          "fixed" : 0
+          
+    }
+  
+    }
+  
+                                     
+  },
+  "groupe2" : {
+  
+    "group_name" : "groupe2",
+  
+    "lundi" : {
+  
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "POO",    
+          "type" : "Cours",
+          "profs" : "Marie Romain",
+          "fixed" : 0    
+          
+    },
+    "m4" : {
+        "nom" : "JAVA",
+          "type" : "Tp",
+          "profs" : "Marie Romain",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " Electronique",
+          "type" : "Tp",
+          "profs" : "Christian Desvalois",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "mardi" : {
+  
+      "m1" : {         
+          "nom" : "Langage C",
+          "type" : "Tp",
+          "profs" : "Fethi Belabdelli",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "SIE",            
+        "type" : "Cours",
+        "profs" : "Patrice Pegaule",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "Recrutement",    
+          "type" : "Cours",
+          "profs" : "Raissa Troispoux",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+      "nom" : "Technos Web",
+      "type" : "Cours",
+      "profs" : "William Ruchaud",
+      "fixed" : 0  
+          
+    },
+    "m5" : {
+        "nom" : " Developpement Durable",
+          "type" : "Cours",
+          "profs" : "Marie-Line Condat",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "mercredi" : {
+  
+      "m1" : {         
+          "nom" : "Droits",
+          "type" : "Cours",
+          "profs" : "Audrey Lauwers",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "Modelisation",            
+        "type" : "Cours",
+        "profs" : "Mouhamadou Moctar",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "Analyse Numerique",    
+          "type" : "Cours",
+          "profs" : "Mouhamadou Moctar",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "Signal",
+          "type" : "Cours",
+          "profs" : "Karmel Frigui",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " Anglais",
+          "type" : "Cours",
+          "profs" : "Alexia Herault",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "jeudi" : {
+  
+      "m1" : {         
+          "nom" : "Frameworks",
+          "type" : "Tp",
+          "profs" : "Julien Hochgenug",
+          "fixed" : 0                           
+  
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Td",
+          "profs" : "Herve Gaudin",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "Internet",
+          "type" : "Tp",
+          "profs" : "Pierre Francou",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " Electronique",
+          "type" : "Cours",
+          "profs" : "Christian Desvalois",
+          "fixed" : 0
+          
+    }
+  
+    },
+    "vendredi" : {
+  
+      "m1" : {         
+        "nom" : "Internet",
+        "type" : "Ei",
+        "profs" : "Pierre Francou",
+        "fixed" : 0
+                                 
+  
+      },
+      "m2" : {    
+        "nom" : "Gestion des risques",            
+        "type" : "Cours",
+        "profs" : "Patrice Pegaule",
+        "fixed" : 0
+          
+    },
+    "m3" : {
+        "nom" : "Langage C",    
+          "type" : "Ei",
+          "profs" : "Fethi Belabdelli",
+          "fixed" : 0 
+          
+    },
+    "m4" : {
+        "nom" : "Web Java",
+          "type" : "Cours",
+          "profs" : "Fethi Belabdelli",
+          "fixed" : 0
+          
+    },
+    "m5" : {
+        "nom" : " Modelisation",
+          "type" : "Cours",
+          "profs" : "Mouhamadou Moctar",
+          "fixed" : 0
+          
+    }
+  }
+  },
+  "groupe3" : {
+  
+  "group_name" : "groupe3",
+   
+  "lundi" : {
+  
+    "m1" : {             
+      "nom" : "Web Java",
+      "type" : "Cours",
+      "profs" : "Fethi Belabdelli",
+      "fixed" : 0                          
+  
+    },
+    "m2" : {    
+      "nom" : "SIE",                             
+      "type" : "Cours",
+      "profs" : "Patrice Pegaule",
+      "fixed" : 0
+        
+  },
+  "m3" : {
+      "nom" : "POO",    
+        "type" : "Tp",
+        "profs" : "Marie Romain",
+        "fixed" : 0    
+        
+  },
+  "m4" : {
+      "nom" : "Conduite de reunion",
+        "type" : "Cours",
+        "profs" : "Martine Binet",
+        "fixed" : 0
+        
+  },
+  "m5" : {
+      "nom" : " Technos Web",
+        "type" : "Cours",
+        "profs" : "William Ruchaud",
+        "fixed" : 0
+        
+  }
+  
+  },
+  "mardi" : {
+  
+    "m1" : {         
+        "nom" : "Analyse Numerique",
+        "type" : "Cours",
+        "profs" : "Mouhamadou Moctar",
+        "fixed" : 0                           
+  
+    },
+    "m2" : {    
+      "nom" : "OGL",            
+      "type" : "Cours",
+      "profs" : "Emmanuel Amblard",
+      "fixed" : 0
+        
+  },
+  "m3" : {
+      "nom" : "Web Java",    
+        "type" : "Cours",
+        "profs" : "Fethi Belabdelli",
+        "fixed" : 0 
+        
+  },
+  "m4" : {
+      "nom" : "Serveur App",
+        "type" : "Cours",
+        "profs" : "Emmanuel Amblard",
+        "fixed" : 0
+        
+  },
+  "m5" : {
+      "nom" : " Recrutement",
+        "type" : "Cours",
+        "profs" : "Raissa Troispoux",
+        "fixed" : 0
+        
+  }
+  
+  },
+  "mercredi" : {
+  
+    "m1" : {         
+        "nom" : "Signal",
+        "type" : "Tp",
+        "profs" : "Karmel Frigui",
+        "fixed" : 0                           
+  
+    },
+    "m2" : {    
+      "nom" : "Dev Si",            
+      "type" : "Cours",
+      "profs" : "Jerome Grasset",
+      "fixed" : 0
+        
+  },
+  "m3" : {
+      "nom" : "Droits",    
+        "type" : "Td",
+        "profs" : "Audrey Lauwers",
+        "fixed" : 0 
+        
+  },
+  "m4" : {
+      "nom" : "Electronique",
+        "type" : "Cours",
+        "profs" : "Christian Desvalois",
+        "fixed" : 0
+        
+  },
+  "m5" : {
+      "nom" : " POO",
+        "type" : "Cours",
+        "profs" : "Marie Romain",
+        "fixed" : 0
+        
+  }
+  
+  },
+  "jeudi" : {
+  
+    "m1" : {         
+        "nom" : "Modelisation",
+        "type" : "Cours",
+        "profs" : "Mouhamadou Moctar",
+        "fixed" : 0                           
+  
+    },
+    "m2" : {    
+      "nom" : " POO",
+        "type" : "Cours",
+        "profs" : "Marie Romain",
+        "fixed" : 0
+        
+        
+  },
+  "m3" : {
+      "nom" : "BDD",    
+        "type" : "Cours",
+        "profs" : "William Ruchaud",
+        "fixed" : 0 
+        
+  },
+  "m4" : {
+      "nom" : "Anglais",
+        "type" : "Cours",
+        "profs" : "Alexia Herault",
+        "fixed" : 0
+        
+  },
+  "m5" : {
+      "nom" : " OGL",
+        "type" : "Cours",
+        "profs" : "Emmanuel Amblard",
+        "fixed" : 0
+        
+  }
+  
+  },
+  "vendredi" : {
+  
+    "m1" : {         
+      "nom" : " OGL",
+      "type" : "Cours",
+      "profs" : "Emmanuel Amblard",
+      "fixed" : 0                         
+  
+    },
+    "m2" : {    
+      "nom" : "Anglais",
+      "type" : "Cours",
+      "profs" : "Alexia Herault",
+      "fixed" : 0
+      
+        
+  },
+  "m3" : {
+      "nom" : "Management",    
+        "type" : "Cours",
+        "profs" : "Maitre",
+        "fixed" : 0 
+        
+  },
+  "m4" : {
+      "nom" : "Gestion des risques",
+        "type" : "Cours",
+        "profs" : "Thierry Larion",
+        "fixed" : 0
+        
+  },
+  "m5" : {
+      "nom" : " Modelisation",
+        "type" : "Cours",
+        "profs" : "Mouhamadou Moctar",
+        "fixed" : 0
+        
+  }
+  
+  }
+  
+                                        
+  }
+  },
+  {
+    "id" : 9,    
+    "nom" : "S46",
+    "date_debut" : "09-11-20",
+    "date_fin"   : "13-11-20",       
+    "full" : 0,    
+    "free" : 0,                   
+    "visible" : 0,  
+    "nom_promotion" : "Promo 2021",
+    "niveau_formation" : "Ingénieur",    
+    "groupe1" : {
+  
+      "group_name" : "groupe1",
+        
+      "lundi" : {     
+           
+        "m1" : {             
+            "nom" : "Technos Web",    
+            "type" : "Cours",
+            "profs" : "William Ruchaud",           
+            "fixed" : 0                           
+  
+        },
+        "m2" : {    
+          "nom" : "BDD",                             
+          "type" : "Cours",
+          "profs" : "William Ruchaud",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+          "nom" : "JAVA",    
+            "type" : "Tp",
+            "profs" : "Herve Gaudin",
+            "fixed" : 0    
+            
+      },
+      "m4" : {
+          "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "Raissa Troispoux",
+            "fixed" : 0
+            
+      },
+      "m5" : {
+          "nom" : " Droits",
+            "type" : "Td",
+            "profs" : "Audrey Lauwers",
+            "fixed" : 0
+            
+      }
+  
+      },
+      "mardi" : {
+  
+        "m1" : {         
+            "nom" : "Web Java",
+            "type" : "Tp",
+            "profs" : "Fethi Belabdelli",
+            "fixed" : 0                           
+  
+        },
+        "m2" : {    
+          "nom" : "Web Java",            
+          "type" : "Cours",
+          "profs" : "Fethi Belabdelli",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+          "nom" : "Anglais",    
+            "type" : "Td",
+            "profs" : "Alexia Herault",
+            "fixed" : 0 
+            
+      },
+      "m4" : {
+          "nom" : "OGL",
+            "type" : "Ei",
+            "profs" : "Emmanuel Amblard",          
+            "fixed" : 0
+            
+      },
+      "m5" : {
+          "nom" : " Serveur App",
+            "type" : "Cours",
+            "profs" : "Emmanuel Amblard",
+            "fixed" : 0
+            
+      }
+  
+      },
+      "mercredi" : {
+  
+        "m1" : {         
+            "nom" : "Frameworks",
+            "type" : "Cours",
+            "profs" : "Julien Hochgenug",
+            "fixed" : 0                           
+  
+        },
+        "m2" : {    
+          "nom" : "Internet",            
+          "type" : "Tp",
+          "profs" : "Pierre Francou",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+          "nom" : "SIE",    
+            "type" : "Td",
+            "profs" : "Patrice Pegaule",
+            "fixed" : 0 
+            
+      },
+      "m4" : {
+          "nom" : "Qualité",
+            "type" : "Cours",
+            "profs" : "Anne-Laure Andrieu",
+            "fixed" : 0
+            
+      },
+      "m5" : {
+          "nom" : " Developpement Durable",
+            "type" : "Ds",
+            "profs" : "Marie-Line Condat",
+            "fixed" : 0
+            
+      }
+  
+      },
+      "jeudi" : {
+  
+        "m1" : {         
+            "nom" : "Technos Web",
+            "type" : "Cours",
+            "profs" : "William Ruchaud",
+            "fixed" : 0                           
+  
+        },
+        "m2" : {    
+          "nom" : "BDD",            
+          "type" : "Tp",
+          "profs" : "William Ruchaud",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+          "nom" : "JAVA",    
+            "type" : "Cours",
+            "profs" : "Marie Romain",
+            "fixed" : 0 
+            
+      },
+      "m4" : {
+          "nom" : "Recrutement",
+            "type" : "Td",
+            "profs" : "Raissa Troispoux",
+            "fixed" : 0
+            
+      },
+      "m5" : {
+          "nom" : " Droits",
+            "type" : "Td",
+            "profs" : "Audrey Lauwers",
+            "fixed" : 0
+            
+      }
+  
+      },
+      "vendredi" : {
+  
+        "m1" : {         
+            "nom" : "Droits",
+            "type" : "Td",
+            "profs" : "Audrey Lauwers",
+            "fixed" : 0                           
+  
+        },
+        "m2" : {    
+          "nom" : "SIE",            
+          "type" : "Td",
+          "profs" : "Patrice Pegaule",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+          "nom" : "Management",    
+            "type" : "Cours",
+            "profs" : "Maitre",
+            "fixed" : 0 
+            
+      },
+      "m4" : {
+          "nom" : "Gestion des risques",
+            "type" : "Ds",
+            "profs" : "Thierry Larion",
+            "fixed" : 0
+            
+      },
+      "m5" : {
+          "nom" : " OGL",
+            "type" : "Tp",
+            "profs" : "Emmanuel Amblard",
+            "fixed" : 0
+            
+      }
+  
+      }
+  
+                                       
+    },
+    "groupe2" : {
+  
+      "group_name" : "groupe2",
+        
+      "lundi" : {     
+           
+        "m1" : {             
+            "nom" : "Technos Web",    
+            "type" : "Cours",
+            "profs" : "William Ruchaud",           
+            "fixed" : 0                           
+  
+        },
+        "m2" : {    
+          "nom" : "BDD",                             
+          "type" : "Cours",
+          "profs" : "William Ruchaud",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+          "nom" : "JAVA",    
+            "type" : "Tp",
+            "profs" : "Herve Gaudin",
+            "fixed" : 0    
+            
+      },
+      "m4" : {
+          "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "Raissa Troispoux",
+            "fixed" : 0
+            
+      },
+      "m5" : {
+          "nom" : " Droits",
+            "type" : "Td",
+            "profs" : "Audrey Lauwers",
+            "fixed" : 0
+            
+      }
+  
+      },
+      "mardi" : {
+  
+        "m1" : {         
+            "nom" : "Web Java",
+            "type" : "Tp",
+            "profs" : "Fethi Belabdelli",
+            "fixed" : 0                           
+  
+        },
+        "m2" : {    
+          "nom" : "Web Java",            
+          "type" : "Cours",
+          "profs" : "Fethi Belabdelli",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+          "nom" : "Anglais",    
+            "type" : "Td",
+            "profs" : "Alexia Herault",
+            "fixed" : 0 
+            
+      },
+      "m4" : {
+          "nom" : "OGL",
+            "type" : "Ei",
+            "profs" : "Emmanuel Amblard",          
+            "fixed" : 0
+            
+      },
+      "m5" : {
+          "nom" : " Serveur App",
+            "type" : "Cours",
+            "profs" : "Emmanuel Amblard",
+            "fixed" : 0
+            
+      }
+  
+      },
+      "mercredi" : {
+  
+        "m1" : {         
+            "nom" : "Frameworks",
+            "type" : "Cours",
+            "profs" : "Julien Hochgenug",
+            "fixed" : 0                           
+  
+        },
+        "m2" : {    
+          "nom" : "Internet",            
+          "type" : "Tp",
+          "profs" : "Pierre Francou",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+          "nom" : "SIE",    
+            "type" : "Td",
+            "profs" : "Patrice Pegaule",
+            "fixed" : 0 
+            
+      },
+      "m4" : {
+          "nom" : "Qualité",
+            "type" : "Cours",
+            "profs" : "Anne-Laure Andrieu",
+            "fixed" : 0
+            
+      },
+      "m5" : {
+          "nom" : " Developpement Durable",
+            "type" : "Ds",
+            "profs" : "Marie-Line Condat",
+            "fixed" : 0
+            
+      }
+  
+      },
+      "jeudi" : {
+  
+        "m1" : {         
+            "nom" : "Technos Web",
+            "type" : "Cours",
+            "profs" : "William Ruchaud",
+            "fixed" : 0                           
+  
+        },
+        "m2" : {    
+          "nom" : "BDD",            
+          "type" : "Tp",
+          "profs" : "William Ruchaud",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+          "nom" : "JAVA",    
+            "type" : "Cours",
+            "profs" : "Marie Romain",
+            "fixed" : 0 
+            
+      },
+      "m4" : {
+          "nom" : "Recrutement",
+            "type" : "Td",
+            "profs" : "Raissa Troispoux",
+            "fixed" : 0
+            
+      },
+      "m5" : {
+          "nom" : " Droits",
+            "type" : "Td",
+            "profs" : "Audrey Lauwers",
+            "fixed" : 0
+            
+      }
+  
+      },
+      "vendredi" : {
+  
+        "m1" : {         
+            "nom" : "Droits",
+            "type" : "Td",
+            "profs" : "Audrey Lauwers",
+            "fixed" : 0                           
+  
+        },
+        "m2" : {    
+          "nom" : "SIE",            
+          "type" : "Td",
+          "profs" : "Patrice Pegaule",
+          "fixed" : 0
+            
+      },
+      "m3" : {
+          "nom" : "Management",    
+            "type" : "Cours",
+            "profs" : "Maitre",
+            "fixed" : 0 
+            
+      },
+      "m4" : {
+          "nom" : "Gestion des risques",
+            "type" : "Ds",
+            "profs" : "Thierry Larion",
+            "fixed" : 0
+            
+      },
+      "m5" : {
+          "nom" : " OGL",
+            "type" : "Tp",
+            "profs" : "Emmanuel Amblard",
+            "fixed" : 0
+            
+      }
+  
+      }
+  },
+  "groupe3" : {
+  
+  "group_name" : "groupe3",
+  
+  "lundi" : {
+  
+    "m1" : {             
+        "nom" : "SIE",    
+        "type" : "Cours",
+        "profs" : "Patrice Pegaule",           
+        "fixed" : 0                           
+  
+    },
+    "m2" : {    
+      "nom" : "BDD",                             
+      "type" : "Cours",
+      "profs" : "William Ruchaud",
+      "fixed" : 0
+        
+  },
+  "m3" : {
+      "nom" : "JAVA",    
+        "type" : "Td",
+        "profs" : "Herve Gaudin",
+        "fixed" : 0    
+        
+  },
+  "m4" : {
+      "nom" : "OGL",
+        "type" : "Tp",
+        "profs" : "Emmanuel Amblard",
+        "fixed" : 0
+        
+  },
+  "m5" : {
+      "nom" : " Management",
+        "type" : "Td",
+        "profs" : "Maitre",
+        "fixed" : 0
+        
+  }
+  
+  },
+  "mardi" : {
+  
+    "m1" : {         
+        "nom" : "Qualite",
+        "type" : "Cours",
+        "profs" : "Anne-Laure Andrieu",
+        "fixed" : 0                           
+  
+    },
+    "m2" : {    
+      "nom" : "Gestion des risques",            
+      "type" : "Td",
+      "profs" : "Thierry Larion",
+      "fixed" : 0
+        
+  },
+  "m3" : {
+      "nom" : "Serveur App",    
+        "type" : "Cours",
+        "profs" : "Emmanuel Amblard",
+        "fixed" : 0 
+        
+  },
+  "m4" : {
+      "nom" : "Recrutement",
+        "type" : "Cours",
+        "profs" : "Raissa Troispoux",
+        "fixed" : 0
+        
+  },
+  "m5" : {
+      "nom" : " Anglais",
+        "type" : "Ds",
+        "profs" : "Alexia Herault",
+        "fixed" : 0
+        
+  }
+  
+  },
+  "mercredi" : {
+  
+    "m1" : {         
+        "nom" : "Frameworks",
+        "type" : "Ei",
+        "profs" : "Julien Hochgenug",
+        "fixed" : 0                           
+  
+    },
+    "m2" : {    
+      "nom" : "Internet",            
+      "type" : "Ds",
+      "profs" : "Pierre Francou",
+      "fixed" : 0
+        
+  },
+  "m3" : {
+      "nom" : "JAVA",    
+        "type" : "Tp",
+        "profs" : "Marie Romain",
+        "fixed" : 0 
+        
+  },
+  "m4" : {
+      "nom" : "Conduite de reunion",
+        "type" : "Td",
+        "profs" : "Martine Binet",
+        "fixed" : 0
+        
+  },
+  "m5" : {
+      "nom" : " Management",
+        "type" : "Ds",
+        "profs" : "Maitre",
+        "fixed" : 0
+        
+  }
+  
+  },
+  "jeudi" : {
+  
+    "m1" : {         
+        "nom" : "BDD",
+        "type" : "Cours",
+        "profs" : "William Ruchaud",
+        "fixed" : 0                           
+  
+    },
+    "m2" : {    
+      "nom" : "Langage C",            
+      "type" : "Tp",
+      "profs" : "Fethi Belabdelli",
+      "fixed" : 0
+        
+  },
+  "m3" : {
+      "nom" : "Prog Sys",    
+        "type" : "Ei",
+        "profs" : "Fethi Belabdelli",
+        "fixed" : 0 
+        
+  },
+  "m4" : {
+      "nom" : "Qualité",
+        "type" : "Cours",
+        "profs" : "Anne-Laure Andrieu",
+        "fixed" : 0
+        
+  },
+  "m5" : {
+      "nom" : " Developpement Durable",
+        "type" : "Td",
+        "profs" : "Marie-Line Condat",
+        "fixed" : 0
+        
+  }
+  
+  },
+  "vendredi" : {
+  
+    "m1" : {         
+        "nom" : "Electronique",
+        "type" : "Tp",
+        "profs" : "Christian Desvalois",
+        "fixed" : 0                           
+  
+    },
+    "m2" : {    
+      "nom" : "Signal",            
+      "type" : "Td",
+      "profs" : "karmel Frigui",
+      "fixed" : 0
+        
+  },   
+  "m3" : {
+      "nom" : "Analyse Numérique",    
+        "type" : "Ei",
+        "profs" : "Mouhamadou Moctar",
+        "fixed" : 0 
+        
+  },       
+  "m4" : {
+      "nom" : "Recrutement",
+        "type" : "Cours",
+        "profs" : "Raissa Troispoux",
+        "fixed" : 0
+        
+  },
+  "m5" : {
+      "nom" : " Droits",
+        "type" : "Td",
+        "profs" : "Audrey Lauwers",
+        "fixed" : 0  
+  }
+  
+  }
+  
+                                   
+  }
+  }
+  ]  
+    

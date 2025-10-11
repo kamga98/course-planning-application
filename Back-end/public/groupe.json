@@ -1,0 +1,215 @@
+[
+  {   
+                     
+    "group_name" : "",                 
+          
+        "lundi" : {
+        
+          "m1" : {             
+              "nom" : "",    
+              "type" : "",
+              "profs" : "",           
+              "fixed" : 0                           
+  
+          },
+          "m2" : {    
+            "nom" : "",    
+              "type" : "",
+              "profs" : "",           
+              "fixed" : 0    
+              
+        },
+        "m3" : {
+          "nom" : "",    
+          "type" : "",
+          "profs" : "",           
+          "fixed" : 0      
+              
+        },
+        "m4" : {
+          "nom" : "",    
+          "type" : "",
+          "profs" : "",           
+          "fixed" : 0    
+              
+        },
+        "m5" : {
+          "nom" : "",    
+          "type" : "",
+          "profs" : "",           
+          "fixed" : 0    
+              
+        }
+  
+        },
+        "mardi" : {
+  
+          "m1" : {         
+            "nom" : "",    
+            "type" : "",
+            "profs" : "",           
+            "fixed" : 0                               
+  
+          },
+          "m2" : {    
+            "nom" : "",    
+              "type" : "",
+              "profs" : "",           
+              "fixed" : 0    
+              
+        },
+        "m3" : {
+          "nom" : "",    
+          "type" : "",
+          "profs" : "",           
+          "fixed" : 0    
+              
+        },
+        "m4" : {
+          "nom" : "",    
+          "type" : "",
+          "profs" : "",           
+          "fixed" : 0    
+        },
+        "m5" : {
+          "nom" : "",    
+              "type" : "",
+              "profs" : "",           
+              "fixed" : 0    
+              
+        }
+  
+        },
+        "mercredi" : {
+  
+          "m1" : {         
+            "nom" : "",    
+            "type" : "",
+            "profs" : "",           
+            "fixed" : 0                            
+  
+          },
+          "m2" : {    
+            "nom" : "",    
+              "type" : "",
+              "profs" : "",           
+              "fixed" : 0    
+              
+        },
+        "m3" : {
+          "nom" : "",    
+          "type" : "",
+          "profs" : "",           
+          "fixed" : 0    
+              
+        },
+        "m4" : {
+          "nom" : "",    
+          "type" : "",
+          "profs" : "",           
+          "fixed" : 0    
+              
+        },
+        "m5" : {
+          "nom" : "",    
+          "type" : "",
+          "profs" : "",           
+          "fixed" : 0    
+              
+        }
+  
+        },
+        "jeudi" : {
+  
+          "m1" : {         
+            "nom" : "",    
+            "type" : "",
+            "profs" : "",           
+            "fixed" : 0    
+                                   
+  
+          },
+          "m2" : {    
+            "nom" : "",    
+            "type" : "",
+            "profs" : "",           
+            "fixed" : 0    
+                
+              
+        },
+        "m3" : {
+          "nom" : "",    
+          "type" : "",
+          "profs" : "",           
+          "fixed" : 0    
+              
+              
+        },
+        "m4" : {
+          "nom" : "",    
+          "type" : "",
+          "profs" : "",           
+          "fixed" : 0    
+              
+              
+        },
+        "m5" : {
+          "nom" : "",    
+          "type" : "",
+          "profs" : "",           
+          "fixed" : 0    
+              
+              
+        }
+  
+        },
+        "vendredi" : {
+  
+          "m1" : {         
+            "nom" : "",    
+            "type" : "",
+            "profs" : "",           
+            "fixed" : 0    
+                                       
+  
+          },
+          "m2" : {    
+            "nom" : "",    
+          "type" : "",
+          "profs" : "",           
+          "fixed" : 0    
+              
+              
+        },
+        "m3" : {
+          "nom" : "",    
+          "type" : "",
+          "profs" : "",           
+          "fixed" : 0    
+              
+              
+        },
+        "m4" : {
+          "nom" : "",    
+          "type" : "",
+          "profs" : "",           
+          "fixed" : 0    
+              
+              
+        },
+        "m5" : {
+          "nom" : "",    
+          "type" : "",
+          "profs" : "",           
+          "fixed" : 0    
+              
+              
+        }
+  
+        }
+  
+                                         
+      }
+
+
+]
