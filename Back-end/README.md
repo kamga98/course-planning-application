@@ -1,6 +1,6 @@
-# Un bloc est un array de 4 semaines consécutives qui seront affichées sur l'interface du planning 
+# Un bloc est un array de 4 semaines consécutives qui seront affichées sur l'interface du planning.
 
-# Un sample est un échantillon d'une semaine à partiir duquel on constitue le fichier json d'une promotion 
+# Un sample est un échantillon d'une semaine à partir duquel on constitue le fichier json d'une promotion.
 
 # Liste des routes opérationnelles : 
   
